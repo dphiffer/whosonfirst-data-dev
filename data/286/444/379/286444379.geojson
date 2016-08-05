@@ -1,0 +1,116 @@
+{
+  "id": 286444379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.862896,40.859711,-73.862896,40.859711",
+    "geom:latitude":40.859711,
+    "geom:longitude":-73.862896,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"805 Astor Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 646 375 2146",
+    "sg:postcode":"10467",
+    "sg:province":"NY",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85807771,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12rElFJmXZNdwjlcbFQ3H4_40.859711_-73.862896@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a1daf5875a14b459c243c8321d1b2ac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85807771,
+            "region_id":85688543,
+            "venue_id":286444379
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85807771,
+            "region_id":85688543,
+            "venue_id":286444379
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85807771,
+            "region_id":85688543,
+            "venue_id":286444379
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85807771,
+            "region_id":85688543,
+            "venue_id":286444379
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85807771,
+            "region_id":85688543,
+            "venue_id":286444379
+        }
+    ],
+    "wof:id":286444379,
+    "wof:lastmodified":1470414443,
+    "wof:name":"Neighborhood Initiative Dev",
+    "wof:parent_id":85807771,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -73.862896,
+    40.859711,
+    -73.862896,
+    40.859711
+],
+  "geometry": {"coordinates":[-73.86289600000001,40.859711],"type":"Point"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 252805791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.915343,40.842073,-73.915343,40.842073",
+    "geom:latitude":40.842073,
+    "geom:longitude":-73.915343,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"7 E 172nd St",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 716 4521",
+    "sg:postcode":"10452",
+    "sg:province":"NY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85865561,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rhDHDVHm2u42A38m6FWqy_40.842073_-73.915343@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"89f1eec61d9be22bfcd39581840ce6e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85865561,
+            "region_id":85688543,
+            "venue_id":252805791
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85865561,
+            "region_id":85688543,
+            "venue_id":252805791
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85865561,
+            "region_id":85688543,
+            "venue_id":252805791
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85865561,
+            "region_id":85688543,
+            "venue_id":252805791
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85865561,
+            "region_id":85688543,
+            "venue_id":252805791
+        }
+    ],
+    "wof:id":252805791,
+    "wof:lastmodified":1470414323,
+    "wof:name":"7 R & M Deli & Grocery",
+    "wof:parent_id":85865561,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -73.915343,
+    40.842073,
+    -73.915343,
+    40.842073
+],
+  "geometry": {"coordinates":[-73.91534299999999,40.842073],"type":"Point"}
+}

@@ -1,0 +1,122 @@
+{
+  "id": 353625875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.899284,40.83188,-73.899284,40.83188",
+    "geom:latitude":40.83188,
+    "geom:longitude":-73.899284,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1297 Boston Rd",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 991 2200",
+    "sg:postcode":"10456",
+    "sg:province":"NY",
+    "sg:tags":[
+        "depository",
+        "banking",
+        "check",
+        "cashing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        420560165,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Rfaey8Rpo3ON1f1RoloIX_40.831880_-73.899284@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e4e3e8215f52eb574c3d2f6919743f82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":420560165,
+            "region_id":85688543,
+            "venue_id":353625875
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":420560165,
+            "region_id":85688543,
+            "venue_id":353625875
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":420560165,
+            "region_id":85688543,
+            "venue_id":353625875
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":420560165,
+            "region_id":85688543,
+            "venue_id":353625875
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":420560165,
+            "region_id":85688543,
+            "venue_id":353625875
+        }
+    ],
+    "wof:id":353625875,
+    "wof:lastmodified":1470414696,
+    "wof:name":"Tri Star Check Cashing Corp",
+    "wof:parent_id":420560165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking",
+        "check",
+        "cashing"
+    ]
+},
+  "bbox": [
+    -73.899284,
+    40.83188,
+    -73.899284,
+    40.83188
+],
+  "geometry": {"coordinates":[-73.89928399999999,40.83188],"type":"Point"}
+}

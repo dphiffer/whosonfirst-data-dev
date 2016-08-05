@@ -1,0 +1,112 @@
+{
+  "id": 370986749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.923231,40.838159,-73.923231,40.838159",
+    "geom:latitude":40.838159,
+    "geom:longitude":-73.923231,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"78 W 168th St",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 293 7800",
+    "sg:postcode":"10452",
+    "sg:province":"NY",
+    "sg:website":"www.nypl.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85869335,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5L1zFtiFJnRbLa9QtVxH1k_40.838159_-73.923231@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9c2cbc4fd1e3eabb9def9e7e9927ddf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85869335,
+            "region_id":85688543,
+            "venue_id":370986749
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85869335,
+            "region_id":85688543,
+            "venue_id":370986749
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85869335,
+            "region_id":85688543,
+            "venue_id":370986749
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85869335,
+            "region_id":85688543,
+            "venue_id":370986749
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85869335,
+            "region_id":85688543,
+            "venue_id":370986749
+        }
+    ],
+    "wof:id":370986749,
+    "wof:lastmodified":1470414819,
+    "wof:name":"High Bridge Branch Library",
+    "wof:parent_id":85869335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.923231,
+    40.838159,
+    -73.923231,
+    40.838159
+],
+  "geometry": {"coordinates":[-73.923231,40.838159],"type":"Point"}
+}

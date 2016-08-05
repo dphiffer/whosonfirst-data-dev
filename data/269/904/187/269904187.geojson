@@ -1,0 +1,111 @@
+{
+  "id": 269904187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.90155,40.846345,-73.90155,40.846345",
+    "geom:latitude":40.846345,
+    "geom:longitude":-73.90155,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1828 Webster Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 914 576 3836",
+    "sg:postcode":"10457",
+    "sg:province":"NY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        420528057,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jPHixoZqfKvzJb2xA8cab_40.846345_-73.901550@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5078f9dfbb44143b2b43935086351105",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":420528057,
+            "region_id":85688543,
+            "venue_id":269904187
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":420528057,
+            "region_id":85688543,
+            "venue_id":269904187
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":420528057,
+            "region_id":85688543,
+            "venue_id":269904187
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":420528057,
+            "region_id":85688543,
+            "venue_id":269904187
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":420528057,
+            "region_id":85688543,
+            "venue_id":269904187
+        }
+    ],
+    "wof:id":269904187,
+    "wof:lastmodified":1470414398,
+    "wof:name":"Sinmar Realty",
+    "wof:parent_id":420528057,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.90155,
+    40.846345,
+    -73.90155,
+    40.846345
+],
+  "geometry": {"coordinates":[-73.90155,40.846345],"type":"Point"}
+}

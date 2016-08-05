@@ -1,0 +1,111 @@
+{
+  "id": 354199981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.836114,40.863983,-73.836114,40.863983",
+    "geom:latitude":40.863983,
+    "geom:longitude":-73.836114,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"2545 Gunther Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 379 7400",
+    "sg:postcode":"10469",
+    "sg:province":"NY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85825625,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HKF6zIj8LVSXbxI5alFKx_40.863983_-73.836114@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8bf61d35051582c1d04413e9cb6aa837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85825625,
+            "region_id":85688543,
+            "venue_id":354199981
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85825625,
+            "region_id":85688543,
+            "venue_id":354199981
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85825625,
+            "region_id":85688543,
+            "venue_id":354199981
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85825625,
+            "region_id":85688543,
+            "venue_id":354199981
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85825625,
+            "region_id":85688543,
+            "venue_id":354199981
+        }
+    ],
+    "wof:id":354199981,
+    "wof:lastmodified":1470414746,
+    "wof:name":"Intermediate School 144",
+    "wof:parent_id":85825625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.836114,
+    40.863983,
+    -73.836114,
+    40.863983
+],
+  "geometry": {"coordinates":[-73.83611399999999,40.863983],"type":"Point"}
+}

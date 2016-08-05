@@ -1,0 +1,116 @@
+{
+  "id": 404139419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.903565,40.847908,-73.903565,40.847908",
+    "geom:latitude":40.847908,
+    "geom:longitude":-73.903565,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1838 Anthony Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 299 8219",
+    "sg:postcode":"10457",
+    "sg:province":"NY",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85865671,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gXm6ZP48zQHLhzDfUu7rW_40.847908_-73.903565@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b2b8675f587ba5a159e035f68c2bfed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85865671,
+            "region_id":85688543,
+            "venue_id":404139419
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85865671,
+            "region_id":85688543,
+            "venue_id":404139419
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85865671,
+            "region_id":85688543,
+            "venue_id":404139419
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85865671,
+            "region_id":85688543,
+            "venue_id":404139419
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85865671,
+            "region_id":85688543,
+            "venue_id":404139419
+        }
+    ],
+    "wof:id":404139419,
+    "wof:lastmodified":1470414911,
+    "wof:name":"Mariel's Cleaners",
+    "wof:parent_id":85865671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -73.903565,
+    40.847908,
+    -73.903565,
+    40.847908
+],
+  "geometry": {"coordinates":[-73.903565,40.847908],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 287159725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-74.000908,40.734651,-74.000908,40.734651",
+    "geom:latitude":40.734651,
+    "geom:longitude":-74.000908,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"141 W 10 St",
+    "sg:city":"New York",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 212 741 2366",
+    "sg:postcode":"10014",
+    "sg:province":"NY",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856577,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102081863,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IkoDpC1AMMgiAXZ4PMtKq_40.734651_-74.000908@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"112677902b723e07d540ddc6b99512fc",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85856577,
+            "region_id":85688543,
+            "venue_id":287159725
+        }
+    ],
+    "wof:id":287159725,
+    "wof:lastmodified":1470414480,
+    "wof:name":"Suds Cafe Laundromat",
+    "wof:parent_id":85856577,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -74.000908,
+    40.734651,
+    -74.000908,
+    40.734651
+],
+  "geometry": {"coordinates":[-74.000908,40.734651],"type":"Point"}
+}

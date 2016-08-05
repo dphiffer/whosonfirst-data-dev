@@ -1,0 +1,116 @@
+{
+  "id": 320837975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.883061,40.835922,-73.883061,40.835922",
+    "geom:latitude":40.835922,
+    "geom:longitude":-73.883061,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1820 Boone Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 708 6921",
+    "sg:postcode":"10460",
+    "sg:province":"NY",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85869201,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oOwKSMyA6F6n6lV2jTD9p_40.835922_-73.883061@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d9eb9cdcfbb6aca35c82125d50212aa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85869201,
+            "region_id":85688543,
+            "venue_id":320837975
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85869201,
+            "region_id":85688543,
+            "venue_id":320837975
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85869201,
+            "region_id":85688543,
+            "venue_id":320837975
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85869201,
+            "region_id":85688543,
+            "venue_id":320837975
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85869201,
+            "region_id":85688543,
+            "venue_id":320837975
+        }
+    ],
+    "wof:id":320837975,
+    "wof:lastmodified":1470414599,
+    "wof:name":"F R Tire Import",
+    "wof:parent_id":85869201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -73.883061,
+    40.835922,
+    -73.883061,
+    40.835922
+],
+  "geometry": {"coordinates":[-73.883061,40.835922],"type":"Point"}
+}

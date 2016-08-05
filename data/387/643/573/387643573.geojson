@@ -1,0 +1,116 @@
+{
+  "id": 387643573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.910198,40.800254,-73.910198,40.800254",
+    "geom:latitude":40.800254,
+    "geom:longitude":-73.910198,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"905 E 134th St",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 401 6747",
+    "sg:postcode":"10454",
+    "sg:province":"NY",
+    "sg:tags":[
+        "dyer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85842807,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oqq8UU6voLBGEclLGHIpg_40.800254_-73.910198@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cdd9e59b8d3a9b372e122c902f789a20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85842807,
+            "region_id":85688543,
+            "venue_id":387643573
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85842807,
+            "region_id":85688543,
+            "venue_id":387643573
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85842807,
+            "region_id":85688543,
+            "venue_id":387643573
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85842807,
+            "region_id":85688543,
+            "venue_id":387643573
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85842807,
+            "region_id":85688543,
+            "venue_id":387643573
+        }
+    ],
+    "wof:id":387643573,
+    "wof:lastmodified":1470414873,
+    "wof:name":"Accurate Lace Dye Inc",
+    "wof:parent_id":85842807,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dyer"
+    ]
+},
+  "bbox": [
+    -73.910198,
+    40.800254,
+    -73.910198,
+    40.800254
+],
+  "geometry": {"coordinates":[-73.91019799999999,40.800254],"type":"Point"}
+}

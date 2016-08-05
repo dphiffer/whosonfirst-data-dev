@@ -1,0 +1,118 @@
+{
+  "id": 403996283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.861538,40.89211,-73.861538,40.89211",
+    "geom:latitude":40.89211,
+    "geom:longitude":-73.861538,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"4125 Carpenter Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 231 5493",
+    "sg:postcode":"10466",
+    "sg:province":"NY",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        420528049,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PRykVVVYfNcer7mlbNvtx_40.892110_-73.861538@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c24e783e6114ccbb02d54d38d53aaf34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":420528049,
+            "region_id":85688543,
+            "venue_id":403996283
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":420528049,
+            "region_id":85688543,
+            "venue_id":403996283
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":420528049,
+            "region_id":85688543,
+            "venue_id":403996283
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":420528049,
+            "region_id":85688543,
+            "venue_id":403996283
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":420528049,
+            "region_id":85688543,
+            "venue_id":403996283
+        }
+    ],
+    "wof:id":403996283,
+    "wof:lastmodified":1470414905,
+    "wof:name":"MKM Construction Svc",
+    "wof:parent_id":420528049,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.861538,
+    40.89211,
+    -73.861538,
+    40.89211
+],
+  "geometry": {"coordinates":[-73.861538,40.89211],"type":"Point"}
+}

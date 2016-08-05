@@ -1,0 +1,95 @@
+{
+  "id": 387489487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.940638,40.794937,-73.940638,40.794937",
+    "geom:latitude":40.794937,
+    "geom:longitude":-73.940638,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"256 E 112th St",
+    "sg:city":"New York",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 212 534 8300",
+    "sg:postcode":"10029",
+    "sg:province":"NY",
+    "sg:tags":[
+        "compact",
+        "record",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869685,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102081863,
+        85688543,
+        85865689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UqmJZHHGOzrLobe3BlIpH_40.794937_-73.940638@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7c8c53fd175f7dd89a3a8aa9d9f55abc",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85869685,
+            "region_id":85688543,
+            "venue_id":387489487
+        },
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85865689,
+            "region_id":85688543,
+            "venue_id":387489487
+        }
+    ],
+    "wof:id":387489487,
+    "wof:lastmodified":1470414865,
+    "wof:name":"Mixteca Tex Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compact",
+        "record",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -73.940638,
+    40.794937,
+    -73.940638,
+    40.794937
+],
+  "geometry": {"coordinates":[-73.94063800000001,40.794937],"type":"Point"}
+}

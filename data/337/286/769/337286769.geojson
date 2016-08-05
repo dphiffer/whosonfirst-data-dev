@@ -1,0 +1,78 @@
+{
+  "id": 337286769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.997791,40.674732,-73.997791,40.674732",
+    "geom:latitude":40.674732,
+    "geom:longitude":-73.997791,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"Smith St & 9th St",
+    "sg:city":"Brooklyn",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"11231",
+    "sg:province":"NY",
+    "sg:tags":[
+        "public"
+    ],
+    "sg:website":"www.mta.info",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865587,
+        102191575,
+        85633793,
+        85977539,
+        421205765,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dOzyJf0HTYNQyAx3X3Gr3_40.674732_-73.997791@1303262348"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"78325d7132e8328ee76295aac04eb179",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205765,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85865587,
+            "region_id":85688543,
+            "venue_id":337286769
+        }
+    ],
+    "wof:id":337286769,
+    "wof:lastmodified":1470414622,
+    "wof:name":"Smith-9th Sts Station",
+    "wof:parent_id":85865587,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "public"
+    ]
+},
+  "bbox": [
+    -73.997791,
+    40.674732,
+    -73.997791,
+    40.674732
+],
+  "geometry": {"coordinates":[-73.99779100000001,40.674732],"type":"Point"}
+}

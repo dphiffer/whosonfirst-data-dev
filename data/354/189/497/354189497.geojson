@@ -1,0 +1,116 @@
+{
+  "id": 354189497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.927599,40.832757,-73.927599,40.832757",
+    "geom:latitude":40.832757,
+    "geom:longitude":-73.927599,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1046 Woodycrest Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 588 4175",
+    "sg:postcode":"10452",
+    "sg:province":"NY",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85869335,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ECxlVagTbq7idoItjonaa_40.832757_-73.927599@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1243d383201a4146ac11a74d214e8469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85869335,
+            "region_id":85688543,
+            "venue_id":354189497
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85869335,
+            "region_id":85688543,
+            "venue_id":354189497
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85869335,
+            "region_id":85688543,
+            "venue_id":354189497
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85869335,
+            "region_id":85688543,
+            "venue_id":354189497
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85869335,
+            "region_id":85688543,
+            "venue_id":354189497
+        }
+    ],
+    "wof:id":354189497,
+    "wof:lastmodified":1470414745,
+    "wof:name":"K K & Tn African Market",
+    "wof:parent_id":85869335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -73.927599,
+    40.832757,
+    -73.927599,
+    40.832757
+],
+  "geometry": {"coordinates":[-73.927599,40.832757],"type":"Point"}
+}

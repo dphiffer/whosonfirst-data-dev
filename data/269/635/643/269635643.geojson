@@ -1,0 +1,157 @@
+{
+  "id": 269635643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.908562,40.825541,-73.908562,40.825541",
+    "geom:latitude":40.825541,
+    "geom:longitude":-73.908562,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"501 E 164th St",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"10456",
+    "sg:province":"NY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85867079,
+        102082377,
+        102081863,
+        102083063,
+        102081779,
+        420560165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JOrCCGy8ElBEPq1VOBaL8_40.825541_-73.908562@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"08dcad3fad6cff7a34b95beba9fecc83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85867079,
+            "region_id":85688543,
+            "venue_id":269635643
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85867079,
+            "region_id":85688543,
+            "venue_id":269635643
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85867079,
+            "region_id":85688543,
+            "venue_id":269635643
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85867079,
+            "region_id":85688543,
+            "venue_id":269635643
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85867079,
+            "region_id":85688543,
+            "venue_id":269635643
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":420560165,
+            "region_id":85688543,
+            "venue_id":269635643
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":420560165,
+            "region_id":85688543,
+            "venue_id":269635643
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":420560165,
+            "region_id":85688543,
+            "venue_id":269635643
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":420560165,
+            "region_id":85688543,
+            "venue_id":269635643
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":420560165,
+            "region_id":85688543,
+            "venue_id":269635643
+        }
+    ],
+    "wof:id":269635643,
+    "wof:lastmodified":1470414378,
+    "wof:name":"Blue Bell Lumber & Moulding Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.908562,
+    40.825541,
+    -73.908562,
+    40.825541
+],
+  "geometry": {"coordinates":[-73.908562,40.825541],"type":"Point"}
+}

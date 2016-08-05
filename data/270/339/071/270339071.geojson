@@ -1,0 +1,118 @@
+{
+  "id": 270339071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.885076,40.842568,-73.885076,40.842568",
+    "geom:latitude":40.842568,
+    "geom:longitude":-73.885076,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"897 E Tremont Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 378 6194",
+    "sg:postcode":"10460",
+    "sg:province":"NY",
+    "sg:tags":[
+        "painter",
+        "sign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85816865,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LkQvVAlaj9Ca4JBDaqGN8_40.842568_-73.885076@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4346597f04be3605863ab83c8fafbe86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85816865,
+            "region_id":85688543,
+            "venue_id":270339071
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85816865,
+            "region_id":85688543,
+            "venue_id":270339071
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85816865,
+            "region_id":85688543,
+            "venue_id":270339071
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85816865,
+            "region_id":85688543,
+            "venue_id":270339071
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85816865,
+            "region_id":85688543,
+            "venue_id":270339071
+        }
+    ],
+    "wof:id":270339071,
+    "wof:lastmodified":1470414423,
+    "wof:name":"AND Signs & Awnings",
+    "wof:parent_id":85816865,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter",
+        "sign"
+    ]
+},
+  "bbox": [
+    -73.885076,
+    40.842568,
+    -73.885076,
+    40.842568
+],
+  "geometry": {"coordinates":[-73.885076,40.842568],"type":"Point"}
+}

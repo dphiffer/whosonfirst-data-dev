@@ -1,0 +1,84 @@
+{
+  "id": 186009751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.965345,40.624514,-73.965345,40.624514",
+    "geom:latitude":40.624514,
+    "geom:longitude":-73.965345,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1356 Coney Island Ave",
+    "sg:city":"Brooklyn",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 951 0003",
+    "sg:postcode":"11230",
+    "sg:province":"NY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869241,
+        102191575,
+        85633793,
+        85977539,
+        421205765,
+        102082361,
+        85688543,
+        85865583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KjpEwTLLs6p4OrqjQVPQA_40.624514_-73.965345@1303262348"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"88d15e9febb698b56e719eaf65312117",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205765,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85869241,
+            "region_id":85688543,
+            "venue_id":186009751
+        },
+        {
+            "borough_id":421205765,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85865583,
+            "region_id":85688543,
+            "venue_id":186009751
+        }
+    ],
+    "wof:id":186009751,
+    "wof:lastmodified":1470414319,
+    "wof:name":"Ahava Mini Market Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.965345,
+    40.624514,
+    -73.965345,
+    40.624514
+],
+  "geometry": {"coordinates":[-73.965345,40.624514],"type":"Point"}
+}

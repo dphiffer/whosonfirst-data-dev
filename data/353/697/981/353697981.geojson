@@ -1,0 +1,116 @@
+{
+  "id": 353697981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.7742,40.660198,-73.7742,40.660198",
+    "geom:latitude":40.660198,
+    "geom:longitude":-73.7742,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"16525 147th Ave",
+    "sg:city":"Jamaica",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 632 9000",
+    "sg:postcode":"11434",
+    "sg:province":"NY",
+    "sg:tags":[
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102534365,
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aNlz5cCw8rvXxM2TkoGvU_40.660198_-73.774200@1303262362"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9289222b202027cf16cea8e143c37c5a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "region_id":85688543,
+            "venue_id":353697981
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "region_id":85688543,
+            "venue_id":353697981
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "region_id":85688543,
+            "venue_id":353697981
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "region_id":85688543,
+            "venue_id":353697981
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "region_id":85688543,
+            "venue_id":353697981
+        }
+    ],
+    "wof:id":353697981,
+    "wof:lastmodified":1470414708,
+    "wof:name":"Transit Facility Claims Corp",
+    "wof:parent_id":102534365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "public"
+    ]
+},
+  "bbox": [
+    -73.7742,
+    40.660198,
+    -73.7742,
+    40.660198
+],
+  "geometry": {"coordinates":[-73.77419999999999,40.660198],"type":"Point"}
+}

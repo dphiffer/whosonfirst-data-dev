@@ -1,0 +1,116 @@
+{
+  "id": 320147709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.88807,40.87627,-73.88807,40.87627",
+    "geom:latitude":40.87627,
+    "geom:longitude":-73.88807,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"3150 Jerome Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"10468",
+    "sg:province":"NY",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85869557,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4V9gi7SQC9UoEyqHjd1sCm_40.876270_-73.888070@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2e46c25c4de3f7f30b3e80e9cca4ee2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85869557,
+            "region_id":85688543,
+            "venue_id":320147709
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85869557,
+            "region_id":85688543,
+            "venue_id":320147709
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85869557,
+            "region_id":85688543,
+            "venue_id":320147709
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85869557,
+            "region_id":85688543,
+            "venue_id":320147709
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85869557,
+            "region_id":85688543,
+            "venue_id":320147709
+        }
+    ],
+    "wof:id":320147709,
+    "wof:lastmodified":1470414563,
+    "wof:name":"Davis & Warshow Inc",
+    "wof:parent_id":85869557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -73.88807,
+    40.87627,
+    -73.88807,
+    40.87627
+],
+  "geometry": {"coordinates":[-73.88807,40.87627],"type":"Point"}
+}

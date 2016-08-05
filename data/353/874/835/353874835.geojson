@@ -1,0 +1,118 @@
+{
+  "id": 353874835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.739197,40.632599,-73.739197,40.632599",
+    "geom:latitude":40.632599,
+    "geom:longitude":-73.739197,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"605 Rockaway Tpke",
+    "sg:city":"Lawrence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 516 371 6223",
+    "sg:postcode":"11559",
+    "sg:province":"NY",
+    "sg:tags":[
+        "seafood",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102534365,
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XjPn98emTrbo0YNNLDWom_40.632599_-73.739197@1303262367"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"37b5fe15aadbe22177fdf2fc3f89f9d5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "region_id":85688543,
+            "venue_id":353874835
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "region_id":85688543,
+            "venue_id":353874835
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "region_id":85688543,
+            "venue_id":353874835
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "region_id":85688543,
+            "venue_id":353874835
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "region_id":85688543,
+            "venue_id":353874835
+        }
+    ],
+    "wof:id":353874835,
+    "wof:lastmodified":1470414724,
+    "wof:name":"Best Fishery the",
+    "wof:parent_id":102534365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "market"
+    ]
+},
+  "bbox": [
+    -73.739197,
+    40.632599,
+    -73.739197,
+    40.632599
+],
+  "geometry": {"coordinates":[-73.739197,40.632599],"type":"Point"}
+}

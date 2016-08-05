@@ -1,0 +1,116 @@
+{
+  "id": 387395565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.905542,40.88694,-73.905542,40.88694",
+    "geom:latitude":40.88694,
+    "geom:longitude":-73.905542,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"3475 Greystone Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 212 595 6200",
+    "sg:postcode":"10463",
+    "sg:province":"NY",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85869385,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fZ0IUBaTP8PGTl3WAGgXj_40.886940_-73.905542@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2d2f24d6d8e2d86f921cdaa907ac66b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85869385,
+            "region_id":85688543,
+            "venue_id":387395565
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85869385,
+            "region_id":85688543,
+            "venue_id":387395565
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85869385,
+            "region_id":85688543,
+            "venue_id":387395565
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85869385,
+            "region_id":85688543,
+            "venue_id":387395565
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85869385,
+            "region_id":85688543,
+            "venue_id":387395565
+        }
+    ],
+    "wof:id":387395565,
+    "wof:lastmodified":1470414861,
+    "wof:name":"Judith Schutz",
+    "wof:parent_id":85869385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -73.905542,
+    40.88694,
+    -73.905542,
+    40.88694
+],
+  "geometry": {"coordinates":[-73.905542,40.88694],"type":"Point"}
+}

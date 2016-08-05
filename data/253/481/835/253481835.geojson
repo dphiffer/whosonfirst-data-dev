@@ -1,0 +1,91 @@
+{
+  "id": 253481835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.925521,40.663309,-73.925521,40.663309",
+    "geom:latitude":40.663309,
+    "geom:longitude":-73.925521,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1013 Rutland Rd",
+    "sg:city":"Brooklyn",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 774 4953",
+    "sg:postcode":"11212",
+    "sg:province":"NY",
+    "sg:tags":[
+        "shipping",
+        "agent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865593,
+        102191575,
+        85633793,
+        85977539,
+        421205765,
+        102082361,
+        85688543,
+        85816313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RnySQImsr5ZGOKfFDC0Jx_40.663309_-73.925521@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ec394cee073d6a774334664b84ce5c57",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205765,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85865593,
+            "region_id":85688543,
+            "venue_id":253481835
+        },
+        {
+            "borough_id":421205765,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85816313,
+            "region_id":85688543,
+            "venue_id":253481835
+        }
+    ],
+    "wof:id":253481835,
+    "wof:lastmodified":1470414352,
+    "wof:name":"Burke's Shipping",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipping",
+        "agent"
+    ]
+},
+  "bbox": [
+    -73.925521,
+    40.663309,
+    -73.925521,
+    40.663309
+],
+  "geometry": {"coordinates":[-73.925521,40.663309],"type":"Point"}
+}

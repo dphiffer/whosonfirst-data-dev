@@ -1,0 +1,78 @@
+{
+  "id": 270169589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.959686,40.758574,-73.959686,40.758574",
+    "geom:latitude":40.758574,
+    "geom:longitude":-73.959686,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"25 Sutton Pl",
+    "sg:city":"New York",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 212 545 7500",
+    "sg:postcode":"10022",
+    "sg:province":"NY",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869487,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102081863,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Z82gWRFIrFhAukNfVKyyv_40.758574_-73.959686@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2ba56ccf152c8565768cda47e59f936d",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85869487,
+            "region_id":85688543,
+            "venue_id":270169589
+        }
+    ],
+    "wof:id":270169589,
+    "wof:lastmodified":1470414414,
+    "wof:name":"Marvin Nyman CPA",
+    "wof:parent_id":85869487,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -73.959686,
+    40.758574,
+    -73.959686,
+    40.758574
+],
+  "geometry": {"coordinates":[-73.959686,40.758574],"type":"Point"}
+}

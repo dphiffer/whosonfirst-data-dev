@@ -1,0 +1,120 @@
+{
+  "id": 320852477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.908947,40.862615,-73.908947,40.862615",
+    "geom:latitude":40.862615,
+    "geom:longitude":-73.908947,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"153 W Fordham Rd",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 733 2292",
+    "sg:postcode":"10468",
+    "sg:province":"NY",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "sg:website":"www.verizonwireless.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85853135,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:brand_id":420573949,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hr36kHJcVu5ZlBavGIvgD_40.862615_-73.908947@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"82668dde170d79416fdcf997703923d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85853135,
+            "region_id":85688543,
+            "venue_id":320852477
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85853135,
+            "region_id":85688543,
+            "venue_id":320852477
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85853135,
+            "region_id":85688543,
+            "venue_id":320852477
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85853135,
+            "region_id":85688543,
+            "venue_id":320852477
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85853135,
+            "region_id":85688543,
+            "venue_id":320852477
+        }
+    ],
+    "wof:id":320852477,
+    "wof:lastmodified":1470414600,
+    "wof:name":"Verizon Wireless",
+    "wof:parent_id":85853135,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -73.908947,
+    40.862615,
+    -73.908947,
+    40.862615
+],
+  "geometry": {"coordinates":[-73.908947,40.862615],"type":"Point"}
+}

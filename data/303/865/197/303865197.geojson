@@ -1,0 +1,78 @@
+{
+  "id": 303865197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.942257,40.668036,-73.942257,40.668036",
+    "geom:latitude":40.668036,
+    "geom:longitude":-73.942257,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"325 Kingston Ave",
+    "sg:city":"Brooklyn",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 756 2500",
+    "sg:postcode":"11213",
+    "sg:province":"NY",
+    "sg:tags":[
+        "clothing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867069,
+        102191575,
+        85633793,
+        85977539,
+        421205765,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ppurDbllTpWOvOF09lfs3_40.668036_-73.942257@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0438165191531d95f055ab5de9a8829e",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205765,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85867069,
+            "region_id":85688543,
+            "venue_id":303865197
+        }
+    ],
+    "wof:id":303865197,
+    "wof:lastmodified":1470414532,
+    "wof:name":"Villa Roma",
+    "wof:parent_id":85867069,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing"
+    ]
+},
+  "bbox": [
+    -73.942257,
+    40.668036,
+    -73.942257,
+    40.668036
+],
+  "geometry": {"coordinates":[-73.942257,40.668036],"type":"Point"}
+}

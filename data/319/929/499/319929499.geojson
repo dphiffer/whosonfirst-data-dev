@@ -1,0 +1,111 @@
+{
+  "id": 319929499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.896487,40.816435,-73.896487,40.816435",
+    "geom:latitude":40.816435,
+    "geom:longitude":-73.896487,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1014 Longwood Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 542 0586",
+    "sg:postcode":"10459",
+    "sg:province":"NY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85869443,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5koC5CbmtmGShLYcSceXy9_40.816435_-73.896487@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"183c9f7151229238faeeb68343cd5a68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85869443,
+            "region_id":85688543,
+            "venue_id":319929499
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85869443,
+            "region_id":85688543,
+            "venue_id":319929499
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85869443,
+            "region_id":85688543,
+            "venue_id":319929499
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85869443,
+            "region_id":85688543,
+            "venue_id":319929499
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85869443,
+            "region_id":85688543,
+            "venue_id":319929499
+        }
+    ],
+    "wof:id":319929499,
+    "wof:lastmodified":1470414550,
+    "wof:name":"Tony Pizza Shop",
+    "wof:parent_id":85869443,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.896487,
+    40.816435,
+    -73.896487,
+    40.816435
+],
+  "geometry": {"coordinates":[-73.89648699999999,40.816435],"type":"Point"}
+}

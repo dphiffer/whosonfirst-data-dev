@@ -1,0 +1,116 @@
+{
+  "id": 320094161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.849462,40.874645,-73.849462,40.874645",
+    "geom:latitude":40.874645,
+    "geom:longitude":-73.849462,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"3353 Fish Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 655 1581",
+    "sg:postcode":"10469",
+    "sg:province":"NY",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85804885,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AW1FKlGTzMdgZX9ZwKr0r_40.874645_-73.849462@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aadb3717604ed086b9cb2b68f9cc9b80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85804885,
+            "region_id":85688543,
+            "venue_id":320094161
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85804885,
+            "region_id":85688543,
+            "venue_id":320094161
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85804885,
+            "region_id":85688543,
+            "venue_id":320094161
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85804885,
+            "region_id":85688543,
+            "venue_id":320094161
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85804885,
+            "region_id":85688543,
+            "venue_id":320094161
+        }
+    ],
+    "wof:id":320094161,
+    "wof:lastmodified":1470414560,
+    "wof:name":"John L Scott",
+    "wof:parent_id":85804885,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -73.849462,
+    40.874645,
+    -73.849462,
+    40.874645
+],
+  "geometry": {"coordinates":[-73.849462,40.874645],"type":"Point"}
+}

@@ -1,0 +1,126 @@
+{
+  "id": 320295633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.834255,40.837293,-73.834255,40.837293",
+    "geom:latitude":40.837293,
+    "geom:longitude":-73.834255,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"3182 E Tremont Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 931 5540",
+    "sg:postcode":"10461",
+    "sg:province":"NY",
+    "sg:tags":[
+        "installation",
+        "wholesale",
+        "contractor",
+        "window",
+        "w",
+        "retail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85892785,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Mx08uFp7Qf54EijTxjeA3_40.837293_-73.834255@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4027e61f1e6b954920cf5fcb21c8c1af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85892785,
+            "region_id":85688543,
+            "venue_id":320295633
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85892785,
+            "region_id":85688543,
+            "venue_id":320295633
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85892785,
+            "region_id":85688543,
+            "venue_id":320295633
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85892785,
+            "region_id":85688543,
+            "venue_id":320295633
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85892785,
+            "region_id":85688543,
+            "venue_id":320295633
+        }
+    ],
+    "wof:id":320295633,
+    "wof:lastmodified":1470414570,
+    "wof:name":"Window Warehouses Inc",
+    "wof:parent_id":85892785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation",
+        "wholesale",
+        "contractor",
+        "window",
+        "w",
+        "retail"
+    ]
+},
+  "bbox": [
+    -73.834255,
+    40.837293,
+    -73.834255,
+    40.837293
+],
+  "geometry": {"coordinates":[-73.834255,40.837293],"type":"Point"}
+}

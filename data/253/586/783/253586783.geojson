@@ -1,0 +1,89 @@
+{
+  "id": 253586783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.931464,40.680424,-73.931464,40.680424",
+    "geom:latitude":40.680424,
+    "geom:longitude":-73.931464,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"397 Stuyvesant Ave",
+    "sg:city":"Brooklyn",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"11233",
+    "sg:province":"NY",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896933,
+        102191575,
+        85633793,
+        85977539,
+        421205765,
+        102082361,
+        85688543,
+        85892907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fe3Y1xvcfntzOLopnLq8i_40.680424_-73.931464@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e694a50379853583c5c950d3f5fcc084",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205765,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85896933,
+            "region_id":85688543,
+            "venue_id":253586783
+        },
+        {
+            "borough_id":421205765,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85892907,
+            "region_id":85688543,
+            "venue_id":253586783
+        }
+    ],
+    "wof:id":253586783,
+    "wof:lastmodified":1470414357,
+    "wof:name":"Eunice Pino",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -73.931464,
+    40.680424,
+    -73.931464,
+    40.680424
+],
+  "geometry": {"coordinates":[-73.93146400000001,40.680424],"type":"Point"}
+}

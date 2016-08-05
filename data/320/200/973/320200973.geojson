@@ -1,0 +1,116 @@
+{
+  "id": 320200973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.901949,40.854297,-73.901949,40.854297",
+    "geom:latitude":40.854297,
+    "geom:longitude":-73.901949,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"2096 Grand Concourse",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"10457",
+    "sg:province":"NY",
+    "sg:tags":[
+        "supermarket"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85819763,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xFk4Fizo9OREJQCunlqRs_40.854297_-73.901949@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d325c8850382766f6cae344ac8c52a91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85819763,
+            "region_id":85688543,
+            "venue_id":320200973
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85819763,
+            "region_id":85688543,
+            "venue_id":320200973
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85819763,
+            "region_id":85688543,
+            "venue_id":320200973
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85819763,
+            "region_id":85688543,
+            "venue_id":320200973
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85819763,
+            "region_id":85688543,
+            "venue_id":320200973
+        }
+    ],
+    "wof:id":320200973,
+    "wof:lastmodified":1470414566,
+    "wof:name":"Aim Mail Centers",
+    "wof:parent_id":85819763,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supermarket"
+    ]
+},
+  "bbox": [
+    -73.901949,
+    40.854297,
+    -73.901949,
+    40.854297
+],
+  "geometry": {"coordinates":[-73.901949,40.854297],"type":"Point"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 370927289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.857663,40.8756,-73.857663,40.8756",
+    "geom:latitude":40.8756,
+    "geom:longitude":-73.857663,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"907 E 211th St",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 519 7447",
+    "sg:postcode":"10469",
+    "sg:province":"NY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85869805,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KRRSuW8cFOSzvyExiZSjT_40.875600_-73.857663@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4b1e01bf86d5093ed96ff529c8c92f13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85869805,
+            "region_id":85688543,
+            "venue_id":370927289
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85869805,
+            "region_id":85688543,
+            "venue_id":370927289
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85869805,
+            "region_id":85688543,
+            "venue_id":370927289
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85869805,
+            "region_id":85688543,
+            "venue_id":370927289
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85869805,
+            "region_id":85688543,
+            "venue_id":370927289
+        }
+    ],
+    "wof:id":370927289,
+    "wof:lastmodified":1470414816,
+    "wof:name":"John Quinn Law Offices",
+    "wof:parent_id":85869805,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -73.857663,
+    40.8756,
+    -73.857663,
+    40.8756
+],
+  "geometry": {"coordinates":[-73.857663,40.8756],"type":"Point"}
+}

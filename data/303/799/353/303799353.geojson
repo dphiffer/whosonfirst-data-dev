@@ -1,0 +1,118 @@
+{
+  "id": 303799353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.894896,40.846583,-73.894896,40.846583",
+    "geom:latitude":40.846583,
+    "geom:longitude":-73.894896,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"567 E Tremont Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 583 4795",
+    "sg:postcode":"10457",
+    "sg:province":"NY",
+    "sg:tags":[
+        "broker",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        420528057,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sOx67pH6D8UwaYXTb2CVG_40.846583_-73.894896@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"697c0ba082eb7a6a993628d5a21ba311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":420528057,
+            "region_id":85688543,
+            "venue_id":303799353
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":420528057,
+            "region_id":85688543,
+            "venue_id":303799353
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":420528057,
+            "region_id":85688543,
+            "venue_id":303799353
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":420528057,
+            "region_id":85688543,
+            "venue_id":303799353
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":420528057,
+            "region_id":85688543,
+            "venue_id":303799353
+        }
+    ],
+    "wof:id":303799353,
+    "wof:lastmodified":1470414529,
+    "wof:name":"PLA Brokerage",
+    "wof:parent_id":420528057,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -73.894896,
+    40.846583,
+    -73.894896,
+    40.846583
+],
+  "geometry": {"coordinates":[-73.894896,40.846583],"type":"Point"}
+}

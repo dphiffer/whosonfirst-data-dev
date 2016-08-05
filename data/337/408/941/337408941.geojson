@@ -1,0 +1,73 @@
+{
+  "id": 337408941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.813342,40.789063,-73.813342,40.789063",
+    "geom:latitude":40.789063,
+    "geom:longitude":-73.813342,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"15007 14th Avenue",
+    "sg:city":"Whitestone",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 747 8400",
+    "sg:postcode":"11357",
+    "sg:province":"NY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857567,
+        102191575,
+        85633793,
+        85977539,
+        421205767,
+        102082377,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3razHbgny1gX8yJbLCdkmK_40.789063_-73.813342@1303262353"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3e38dbb69617b7068899af1f31c7874b",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205767,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85857567,
+            "region_id":85688543,
+            "venue_id":337408941
+        }
+    ],
+    "wof:id":337408941,
+    "wof:lastmodified":1470414648,
+    "wof:name":"Marathon National Bank of Ny",
+    "wof:parent_id":85857567,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.813342,
+    40.789063,
+    -73.813342,
+    40.789063
+],
+  "geometry": {"coordinates":[-73.81334200000001,40.789063],"type":"Point"}
+}

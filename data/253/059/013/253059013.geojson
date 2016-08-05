@@ -1,0 +1,116 @@
+{
+  "id": 253059013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.885927,40.844129,-73.885927,40.844129",
+    "geom:latitude":40.844129,
+    "geom:longitude":-73.885927,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"2016 Marmion Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"10460",
+    "sg:province":"NY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        420528057,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QtGgEoT963Twg9ndG9V5U_40.844129_-73.885927@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f0de91fa9afaa4472ec53dad33832b85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":420528057,
+            "region_id":85688543,
+            "venue_id":253059013
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":420528057,
+            "region_id":85688543,
+            "venue_id":253059013
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":420528057,
+            "region_id":85688543,
+            "venue_id":253059013
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":420528057,
+            "region_id":85688543,
+            "venue_id":253059013
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":420528057,
+            "region_id":85688543,
+            "venue_id":253059013
+        }
+    ],
+    "wof:id":253059013,
+    "wof:lastmodified":1470414333,
+    "wof:name":"Tabitas Hair Braiding",
+    "wof:parent_id":420528057,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.885927,
+    40.844129,
+    -73.885927,
+    40.844129
+],
+  "geometry": {"coordinates":[-73.885927,40.844129],"type":"Point"}
+}

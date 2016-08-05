@@ -1,0 +1,118 @@
+{
+  "id": 336909857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.880561,40.826117,-73.880561,40.826117",
+    "geom:latitude":40.826117,
+    "geom:longitude":-73.880561,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1186 Evergreen Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 860 1508",
+    "sg:postcode":"10472",
+    "sg:province":"NY",
+    "sg:tags":[
+        "leather",
+        "good"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        420528053,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16tp4W3XOUrR8KIT11rqs8_40.826117_-73.880561@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6bb4992bce7bece856257eaea016aea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":420528053,
+            "region_id":85688543,
+            "venue_id":336909857
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":420528053,
+            "region_id":85688543,
+            "venue_id":336909857
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":420528053,
+            "region_id":85688543,
+            "venue_id":336909857
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":420528053,
+            "region_id":85688543,
+            "venue_id":336909857
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":420528053,
+            "region_id":85688543,
+            "venue_id":336909857
+        }
+    ],
+    "wof:id":336909857,
+    "wof:lastmodified":1470414617,
+    "wof:name":"Rosaro Leather Goods",
+    "wof:parent_id":420528053,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leather",
+        "good"
+    ]
+},
+  "bbox": [
+    -73.880561,
+    40.826117,
+    -73.880561,
+    40.826117
+],
+  "geometry": {"coordinates":[-73.880561,40.826117],"type":"Point"}
+}

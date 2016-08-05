@@ -1,0 +1,116 @@
+{
+  "id": 387112683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.851792,40.834261,-73.851792,40.834261",
+    "geom:latitude":40.834261,
+    "geom:longitude":-73.851792,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"2153 Westchester Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"10462",
+    "sg:province":"NY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85840627,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HgpwfEC8BSZmPZWE0Fwvp_40.834261_-73.851792@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a11d2b1c842d170ab84b435b03d58bb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85840627,
+            "region_id":85688543,
+            "venue_id":387112683
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85840627,
+            "region_id":85688543,
+            "venue_id":387112683
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85840627,
+            "region_id":85688543,
+            "venue_id":387112683
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85840627,
+            "region_id":85688543,
+            "venue_id":387112683
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85840627,
+            "region_id":85688543,
+            "venue_id":387112683
+        }
+    ],
+    "wof:id":387112683,
+    "wof:lastmodified":1470414847,
+    "wof:name":"Stellas Hair Salon",
+    "wof:parent_id":85840627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.851792,
+    40.834261,
+    -73.851792,
+    40.834261
+],
+  "geometry": {"coordinates":[-73.851792,40.834261],"type":"Point"}
+}

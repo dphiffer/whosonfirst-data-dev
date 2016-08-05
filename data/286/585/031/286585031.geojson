@@ -1,0 +1,118 @@
+{
+  "id": 286585031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.88201,40.881716,-73.88201,40.881716",
+    "geom:latitude":40.881716,
+    "geom:longitude":-73.88201,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"3448 Jerome Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 882 7607",
+    "sg:postcode":"10467",
+    "sg:province":"NY",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85869557,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eMMj52vlIwuIQhFNzaYUA_40.881716_-73.882010@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2add7982c5e610963726d462078b90f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85869557,
+            "region_id":85688543,
+            "venue_id":286585031
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85869557,
+            "region_id":85688543,
+            "venue_id":286585031
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85869557,
+            "region_id":85688543,
+            "venue_id":286585031
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85869557,
+            "region_id":85688543,
+            "venue_id":286585031
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85869557,
+            "region_id":85688543,
+            "venue_id":286585031
+        }
+    ],
+    "wof:id":286585031,
+    "wof:lastmodified":1470414450,
+    "wof:name":"H & R Block Tax Svc",
+    "wof:parent_id":85869557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -73.88201,
+    40.881716,
+    -73.88201,
+    40.881716
+],
+  "geometry": {"coordinates":[-73.88200999999999,40.881716],"type":"Point"}
+}

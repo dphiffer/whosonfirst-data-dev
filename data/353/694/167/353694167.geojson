@@ -1,0 +1,118 @@
+{
+  "id": 353694167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.867564,40.861153,-73.867564,40.861153",
+    "geom:latitude":40.861153,
+    "geom:longitude":-73.867564,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"2301 White Plains Rd",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 654 5045",
+    "sg:postcode":"10467",
+    "sg:province":"NY",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85807771,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cVwjqPbEpShxZrs23kmFr_40.861153_-73.867564@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e9e27e7c9d259ea41184fca9fa1000b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85807771,
+            "region_id":85688543,
+            "venue_id":353694167
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85807771,
+            "region_id":85688543,
+            "venue_id":353694167
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85807771,
+            "region_id":85688543,
+            "venue_id":353694167
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85807771,
+            "region_id":85688543,
+            "venue_id":353694167
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85807771,
+            "region_id":85688543,
+            "venue_id":353694167
+        }
+    ],
+    "wof:id":353694167,
+    "wof:lastmodified":1470414708,
+    "wof:name":"Rhino Financial Svc Inc",
+    "wof:parent_id":85807771,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -73.867564,
+    40.861153,
+    -73.867564,
+    40.861153
+],
+  "geometry": {"coordinates":[-73.867564,40.861153],"type":"Point"}
+}

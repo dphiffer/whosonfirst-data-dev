@@ -1,0 +1,89 @@
+{
+  "id": 370718275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-74.003617,40.641115,-74.003617,40.641115",
+    "geom:latitude":40.641115,
+    "geom:longitude":-74.003617,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"4909 8th Ave",
+    "sg:city":"Brooklyn",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 686 7911",
+    "sg:postcode":"11220",
+    "sg:province":"NY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865581,
+        102191575,
+        85633793,
+        85977539,
+        421205765,
+        102082361,
+        85688543,
+        420558599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5K6AvC7zsMPop2PdT2wFkX_40.641115_-74.003617@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6a52e1fb4c56e673ce6abb9f74fc4b2e",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205765,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85865581,
+            "region_id":85688543,
+            "venue_id":370718275
+        },
+        {
+            "borough_id":421205765,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":420558599,
+            "region_id":85688543,
+            "venue_id":370718275
+        }
+    ],
+    "wof:id":370718275,
+    "wof:lastmodified":1470414803,
+    "wof:name":"Saim Deli & Grocery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -74.003617,
+    40.641115,
+    -74.003617,
+    40.641115
+],
+  "geometry": {"coordinates":[-74.00361700000001,40.641115],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 353599793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.840286,40.685776,-73.840286,40.685776",
+    "geom:latitude":40.685776,
+    "geom:longitude":-73.840286,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"10212 101st Avenue",
+    "sg:city":"Ozone Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 849 1157",
+    "sg:postcode":"11416",
+    "sg:province":"NY",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420529701,
+        102191575,
+        85633793,
+        85977539,
+        421205767,
+        102082377,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WQkOirZ7tLHiI7GEFb13S_40.685776_-73.840286@1303262360"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"da04331c1754b7ecd42ad8678c359ebd",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205767,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":420529701,
+            "region_id":85688543,
+            "venue_id":353599793
+        }
+    ],
+    "wof:id":353599793,
+    "wof:lastmodified":1470414692,
+    "wof:name":"Mario's Pizza",
+    "wof:parent_id":420529701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -73.840286,
+    40.685776,
+    -73.840286,
+    40.685776
+],
+  "geometry": {"coordinates":[-73.84028600000001,40.685776],"type":"Point"}
+}

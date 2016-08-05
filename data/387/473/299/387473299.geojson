@@ -1,0 +1,116 @@
+{
+  "id": 387473299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.865144,40.870985,-73.865144,40.870985",
+    "geom:latitude":40.870985,
+    "geom:longitude":-73.865144,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"3048 Holland Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 231 1604",
+    "sg:postcode":"10467",
+    "sg:province":"NY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85869805,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bKR58era8x7hNcAfJGIg0_40.870985_-73.865144@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"78629367147c302be24419c8002464d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85869805,
+            "region_id":85688543,
+            "venue_id":387473299
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85869805,
+            "region_id":85688543,
+            "venue_id":387473299
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85869805,
+            "region_id":85688543,
+            "venue_id":387473299
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85869805,
+            "region_id":85688543,
+            "venue_id":387473299
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85869805,
+            "region_id":85688543,
+            "venue_id":387473299
+        }
+    ],
+    "wof:id":387473299,
+    "wof:lastmodified":1470414865,
+    "wof:name":"Triumphant Life Church",
+    "wof:parent_id":85869805,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -73.865144,
+    40.870985,
+    -73.865144,
+    40.870985
+],
+  "geometry": {"coordinates":[-73.865144,40.870985],"type":"Point"}
+}

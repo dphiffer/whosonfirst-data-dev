@@ -1,0 +1,117 @@
+{
+  "id": 353661357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.740209,40.636119,-73.740209,40.636119",
+    "geom:latitude":40.636119,
+    "geom:longitude":-73.740209,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"25301 Rockaway Blvd Ste 7",
+    "sg:city":"Rosedale",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 516 295 5504",
+    "sg:postcode":"11422",
+    "sg:province":"NY",
+    "sg:website":"www.radioshack.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102534365,
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fI4ni8ZgD0ahTl2wFP5L4_40.636119_-73.740209@1303262361"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e1308c5397702e8f516fba15adf911e6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "region_id":85688543,
+            "venue_id":353661357
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "region_id":85688543,
+            "venue_id":353661357
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "region_id":85688543,
+            "venue_id":353661357
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "region_id":85688543,
+            "venue_id":353661357
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "region_id":85688543,
+            "venue_id":353661357
+        }
+    ],
+    "wof:id":353661357,
+    "wof:lastmodified":1470414702,
+    "wof:name":"Radio Shack",
+    "wof:parent_id":102534365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.740209,
+    40.636119,
+    -73.740209,
+    40.636119
+],
+  "geometry": {"coordinates":[-73.74020899999999,40.636119],"type":"Point"}
+}

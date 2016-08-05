@@ -1,0 +1,111 @@
+{
+  "id": 253403295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.848684,40.876312,-73.848684,40.876312",
+    "geom:latitude":40.876312,
+    "geom:longitude":-73.848684,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"3455 Boston Rd",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 798 2236",
+    "sg:postcode":"10469",
+    "sg:province":"NY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85869805,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FZoxlSr7q8NAzg87rQdRe_40.876312_-73.848684@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bafa7734e71e37888fbb646173127706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85869805,
+            "region_id":85688543,
+            "venue_id":253403295
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85869805,
+            "region_id":85688543,
+            "venue_id":253403295
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85869805,
+            "region_id":85688543,
+            "venue_id":253403295
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85869805,
+            "region_id":85688543,
+            "venue_id":253403295
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85869805,
+            "region_id":85688543,
+            "venue_id":253403295
+        }
+    ],
+    "wof:id":253403295,
+    "wof:lastmodified":1470414348,
+    "wof:name":"Boston Road Medical Assoc",
+    "wof:parent_id":85869805,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.848684,
+    40.876312,
+    -73.848684,
+    40.876312
+],
+  "geometry": {"coordinates":[-73.84868400000001,40.876312],"type":"Point"}
+}

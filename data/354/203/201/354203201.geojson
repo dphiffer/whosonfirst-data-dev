@@ -1,0 +1,157 @@
+{
+  "id": 354203201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.903533,40.830963,-73.903533,40.830963",
+    "geom:latitude":40.830963,
+    "geom:longitude":-73.903533,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"820 Horseblock Rd",
+    "sg:city":"Farmingville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 631 846 7136",
+    "sg:postcode":"11738",
+    "sg:province":"NY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        420560165,
+        102082377,
+        102081863,
+        102083063,
+        102081779,
+        85892797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lajk1nOhrxSsEZwDu5BRS_40.830963_-73.903533@1303262374"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ffd6fa2da9e3ae078ee7700fb3998a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":420560165,
+            "region_id":85688543,
+            "venue_id":354203201
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":420560165,
+            "region_id":85688543,
+            "venue_id":354203201
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":420560165,
+            "region_id":85688543,
+            "venue_id":354203201
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":420560165,
+            "region_id":85688543,
+            "venue_id":354203201
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":420560165,
+            "region_id":85688543,
+            "venue_id":354203201
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85892797,
+            "region_id":85688543,
+            "venue_id":354203201
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85892797,
+            "region_id":85688543,
+            "venue_id":354203201
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85892797,
+            "region_id":85688543,
+            "venue_id":354203201
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85892797,
+            "region_id":85688543,
+            "venue_id":354203201
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85892797,
+            "region_id":85688543,
+            "venue_id":354203201
+        }
+    ],
+    "wof:id":354203201,
+    "wof:lastmodified":1470414746,
+    "wof:name":"International Minimarket",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.903533,
+    40.830963,
+    -73.903533,
+    40.830963
+],
+  "geometry": {"coordinates":[-73.903533,40.830963],"type":"Point"}
+}

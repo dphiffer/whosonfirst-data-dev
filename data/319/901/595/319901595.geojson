@@ -1,0 +1,118 @@
+{
+  "id": 319901595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.856853,40.87428,-73.856853,40.87428",
+    "geom:latitude":40.87428,
+    "geom:longitude":-73.856853,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1058 E Gun Hill Rd",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 379 9356",
+    "sg:postcode":"10469",
+    "sg:province":"NY",
+    "sg:tags":[
+        "boiler",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85869805,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f5xQbVQ68V5lNWeEaUI1I_40.874280_-73.856853@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cf0c15197492da32c355309673340a83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85869805,
+            "region_id":85688543,
+            "venue_id":319901595
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85869805,
+            "region_id":85688543,
+            "venue_id":319901595
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85869805,
+            "region_id":85688543,
+            "venue_id":319901595
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85869805,
+            "region_id":85688543,
+            "venue_id":319901595
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85869805,
+            "region_id":85688543,
+            "venue_id":319901595
+        }
+    ],
+    "wof:id":319901595,
+    "wof:lastmodified":1470414548,
+    "wof:name":"Latty's General Contractors",
+    "wof:parent_id":85869805,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boiler",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -73.856853,
+    40.87428,
+    -73.856853,
+    40.87428
+],
+  "geometry": {"coordinates":[-73.856853,40.87428],"type":"Point"}
+}

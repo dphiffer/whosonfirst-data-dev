@@ -1,0 +1,119 @@
+{
+  "id": 287268737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.895451,40.817626,-73.895451,40.817626",
+    "geom:latitude":40.817626,
+    "geom:longitude":-73.895451,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"854 Intervale Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 535 9368",
+    "sg:postcode":"10459",
+    "sg:province":"NY",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85869443,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:brand_id":420575345,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z4RbM1NoB2xTK9aaUasdn_40.817626_-73.895451@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2b6420d20efca62bb47947c8a51293d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85869443,
+            "region_id":85688543,
+            "venue_id":287268737
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85869443,
+            "region_id":85688543,
+            "venue_id":287268737
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85869443,
+            "region_id":85688543,
+            "venue_id":287268737
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85869443,
+            "region_id":85688543,
+            "venue_id":287268737
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85869443,
+            "region_id":85688543,
+            "venue_id":287268737
+        }
+    ],
+    "wof:id":287268737,
+    "wof:lastmodified":1470414486,
+    "wof:name":"24 Hour A Day Locksmith",
+    "wof:parent_id":85869443,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -73.895451,
+    40.817626,
+    -73.895451,
+    40.817626
+],
+  "geometry": {"coordinates":[-73.89545099999999,40.817626],"type":"Point"}
+}

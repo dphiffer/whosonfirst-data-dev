@@ -1,0 +1,116 @@
+{
+  "id": 353805855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.924848,40.841494,-73.924848,40.841494",
+    "geom:latitude":40.841494,
+    "geom:longitude":-73.924848,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1416 Ogden Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 681 8540",
+    "sg:postcode":"10452",
+    "sg:province":"NY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85869335,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lBTnb8poR515NvgFG5Uzg_40.841494_-73.924848@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d6ad7896c5d7d9687bc1d1bf5c4221b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85869335,
+            "region_id":85688543,
+            "venue_id":353805855
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85869335,
+            "region_id":85688543,
+            "venue_id":353805855
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85869335,
+            "region_id":85688543,
+            "venue_id":353805855
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85869335,
+            "region_id":85688543,
+            "venue_id":353805855
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85869335,
+            "region_id":85688543,
+            "venue_id":353805855
+        }
+    ],
+    "wof:id":353805855,
+    "wof:lastmodified":1470414719,
+    "wof:name":"Ray's Grocery & Deli",
+    "wof:parent_id":85869335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -73.924848,
+    40.841494,
+    -73.924848,
+    40.841494
+],
+  "geometry": {"coordinates":[-73.924848,40.841494],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 319988509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.918403,40.834687,-73.918403,40.834687",
+    "geom:latitude":40.834687,
+    "geom:longitude":-73.918403,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"110 E 167th St",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 293 9421",
+    "sg:postcode":"10452",
+    "sg:province":"NY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85865669,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2q7to6oH1bZ6Dzt3cavI8m_40.834687_-73.918403@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"239491e129ed80c746c86b43c95b1619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85865669,
+            "region_id":85688543,
+            "venue_id":319988509
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85865669,
+            "region_id":85688543,
+            "venue_id":319988509
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85865669,
+            "region_id":85688543,
+            "venue_id":319988509
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85865669,
+            "region_id":85688543,
+            "venue_id":319988509
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85865669,
+            "region_id":85688543,
+            "venue_id":319988509
+        }
+    ],
+    "wof:id":319988509,
+    "wof:lastmodified":1470414553,
+    "wof:name":"Betsy's Discount Store",
+    "wof:parent_id":85865669,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.918403,
+    40.834687,
+    -73.918403,
+    40.834687
+],
+  "geometry": {"coordinates":[-73.918403,40.834687],"type":"Point"}
+}

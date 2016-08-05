@@ -1,0 +1,164 @@
+{
+  "id": 370748419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.896236,40.849705,-73.896236,40.849705",
+    "geom:latitude":40.849705,
+    "geom:longitude":-73.896236,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"2094 Washington Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 329 9381",
+    "sg:postcode":"10457",
+    "sg:province":"NY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        420528057,
+        102082377,
+        102081863,
+        102083063,
+        102081779,
+        85892761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aW8Z5q1xCZSS73bTTbfox_40.849705_-73.896236@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"60cd654aab796bd96b8f4be8a98ea8aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":420528057,
+            "region_id":85688543,
+            "venue_id":370748419
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":420528057,
+            "region_id":85688543,
+            "venue_id":370748419
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":420528057,
+            "region_id":85688543,
+            "venue_id":370748419
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":420528057,
+            "region_id":85688543,
+            "venue_id":370748419
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":420528057,
+            "region_id":85688543,
+            "venue_id":370748419
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85892761,
+            "region_id":85688543,
+            "venue_id":370748419
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85892761,
+            "region_id":85688543,
+            "venue_id":370748419
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85892761,
+            "region_id":85688543,
+            "venue_id":370748419
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85892761,
+            "region_id":85688543,
+            "venue_id":370748419
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85892761,
+            "region_id":85688543,
+            "venue_id":370748419
+        }
+    ],
+    "wof:id":370748419,
+    "wof:lastmodified":1470414805,
+    "wof:name":"Benji Auto Sales Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.896236,
+    40.849705,
+    -73.896236,
+    40.849705
+],
+  "geometry": {"coordinates":[-73.896236,40.849705],"type":"Point"}
+}

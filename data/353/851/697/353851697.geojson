@@ -1,0 +1,117 @@
+{
+  "id": 353851697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.866935,40.874962,-73.866935,40.874962",
+    "geom:latitude":40.874962,
+    "geom:longitude":-73.866935,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"3356 White Plains Rd",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"10467",
+    "sg:province":"NY",
+    "sg:tags":[
+        "repair"
+    ],
+    "sg:website":"www.olinvillearms.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85869805,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hxTtxqJcYUOV1jfQ8L6To_40.874962_-73.866935@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"da8f9b748ae41147f93b6debc584d3fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85869805,
+            "region_id":85688543,
+            "venue_id":353851697
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85869805,
+            "region_id":85688543,
+            "venue_id":353851697
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85869805,
+            "region_id":85688543,
+            "venue_id":353851697
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85869805,
+            "region_id":85688543,
+            "venue_id":353851697
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85869805,
+            "region_id":85688543,
+            "venue_id":353851697
+        }
+    ],
+    "wof:id":353851697,
+    "wof:lastmodified":1470414722,
+    "wof:name":"Olinville Arms Inc",
+    "wof:parent_id":85869805,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -73.866935,
+    40.874962,
+    -73.866935,
+    40.874962
+],
+  "geometry": {"coordinates":[-73.866935,40.874962],"type":"Point"}
+}

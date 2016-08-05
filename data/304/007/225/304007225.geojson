@@ -1,0 +1,111 @@
+{
+  "id": 304007225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.885999,40.842843,-73.885999,40.842843",
+    "geom:latitude":40.842843,
+    "geom:longitude":-73.885999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"860 E Tremont Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 542 5369",
+    "sg:postcode":"10460",
+    "sg:province":"NY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        420528057,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DuIi4vgh2WPX7Ix62PYLo_40.842843_-73.885999@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"72f443e779b08aa3e22716f9ed847de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":420528057,
+            "region_id":85688543,
+            "venue_id":304007225
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":420528057,
+            "region_id":85688543,
+            "venue_id":304007225
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":420528057,
+            "region_id":85688543,
+            "venue_id":304007225
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":420528057,
+            "region_id":85688543,
+            "venue_id":304007225
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":420528057,
+            "region_id":85688543,
+            "venue_id":304007225
+        }
+    ],
+    "wof:id":304007225,
+    "wof:lastmodified":1470414540,
+    "wof:name":"Jazzy Laundrymat",
+    "wof:parent_id":420528057,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.885999,
+    40.842843,
+    -73.885999,
+    40.842843
+],
+  "geometry": {"coordinates":[-73.885999,40.842843],"type":"Point"}
+}

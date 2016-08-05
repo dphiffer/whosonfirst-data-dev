@@ -1,0 +1,91 @@
+{
+  "id": 337439875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.865501,40.7575,-73.865501,40.7575",
+    "geom:latitude":40.7575,
+    "geom:longitude":-73.865501,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"10312 Northern Blvd",
+    "sg:city":"Corona",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 396 4414",
+    "sg:postcode":"11368",
+    "sg:province":"NY",
+    "sg:tags":[
+        "american",
+        "latin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865641,
+        102191575,
+        85633793,
+        85977539,
+        421205767,
+        102082377,
+        85688543,
+        85812357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DQN3mXjdqX4RYStUc3I9s_40.757500_-73.865501@1303262354"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"19e73ac4f7c4a71459f73c4351b929b2",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205767,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85865641,
+            "region_id":85688543,
+            "venue_id":337439875
+        },
+        {
+            "borough_id":421205767,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85812357,
+            "region_id":85688543,
+            "venue_id":337439875
+        }
+    ],
+    "wof:id":337439875,
+    "wof:lastmodified":1470414653,
+    "wof:name":"Pico Rico",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "latin"
+    ]
+},
+  "bbox": [
+    -73.865501,
+    40.7575,
+    -73.865501,
+    40.7575
+],
+  "geometry": {"coordinates":[-73.86550099999999,40.7575],"type":"Point"}
+}

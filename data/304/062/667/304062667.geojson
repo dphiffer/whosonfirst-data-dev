@@ -1,0 +1,118 @@
+{
+  "id": 304062667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.830034,40.842177,-73.830034,40.842177",
+    "geom:latitude":40.842177,
+    "geom:longitude":-73.830034,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1400 Crosby Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 887 2257",
+    "sg:postcode":"10461",
+    "sg:province":"NY",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85892785,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VCFVw9fzwLJmDMFmebMWD_40.842177_-73.830034@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2d6eec6a9146dc97ec75a750bd5f7d77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85892785,
+            "region_id":85688543,
+            "venue_id":304062667
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85892785,
+            "region_id":85688543,
+            "venue_id":304062667
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85892785,
+            "region_id":85688543,
+            "venue_id":304062667
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85892785,
+            "region_id":85688543,
+            "venue_id":304062667
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85892785,
+            "region_id":85688543,
+            "venue_id":304062667
+        }
+    ],
+    "wof:id":304062667,
+    "wof:lastmodified":1470414543,
+    "wof:name":"Emergency 7 Day Locksmith",
+    "wof:parent_id":85892785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -73.830034,
+    40.842177,
+    -73.830034,
+    40.842177
+],
+  "geometry": {"coordinates":[-73.830034,40.842177],"type":"Point"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 286373499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.9065,40.903914,-73.9065,40.903914",
+    "geom:latitude":40.903914,
+    "geom:longitude":-73.9065,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"5545 Netherland Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 884 4929",
+    "sg:postcode":"10471",
+    "sg:province":"NY",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85892779,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hwrZzrYDK47uL6c8ev7q7_40.903914_-73.906500@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a4b91ba79bdb99b6deebb1518b49aa93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85892779,
+            "region_id":85688543,
+            "venue_id":286373499
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85892779,
+            "region_id":85688543,
+            "venue_id":286373499
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85892779,
+            "region_id":85688543,
+            "venue_id":286373499
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85892779,
+            "region_id":85688543,
+            "venue_id":286373499
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85892779,
+            "region_id":85688543,
+            "venue_id":286373499
+        }
+    ],
+    "wof:id":286373499,
+    "wof:lastmodified":1470414440,
+    "wof:name":"A & M Surveyors & Adjusters",
+    "wof:parent_id":85892779,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -73.9065,
+    40.903914,
+    -73.9065,
+    40.903914
+],
+  "geometry": {"coordinates":[-73.90649999999999,40.903914],"type":"Point"}
+}

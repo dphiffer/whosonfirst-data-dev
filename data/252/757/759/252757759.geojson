@@ -1,0 +1,118 @@
+{
+  "id": 252757759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.927385,40.839657,-73.927385,40.839657",
+    "geom:latitude":40.839657,
+    "geom:longitude":-73.927385,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1247 Dr Martin Luther King Jr Blvd",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 538 2847",
+    "sg:postcode":"10452",
+    "sg:province":"NY",
+    "sg:tags":[
+        "crisis",
+        "intervention"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85869335,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Sad5VcurGyzb8gumWPT50_40.839657_-73.927385@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d57ac5ef7d76bf4b47629eefe9ed4529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85869335,
+            "region_id":85688543,
+            "venue_id":252757759
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85869335,
+            "region_id":85688543,
+            "venue_id":252757759
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85869335,
+            "region_id":85688543,
+            "venue_id":252757759
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85869335,
+            "region_id":85688543,
+            "venue_id":252757759
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85869335,
+            "region_id":85688543,
+            "venue_id":252757759
+        }
+    ],
+    "wof:id":252757759,
+    "wof:lastmodified":1470414321,
+    "wof:name":"Violence Intervention Program",
+    "wof:parent_id":85869335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crisis",
+        "intervention"
+    ]
+},
+  "bbox": [
+    -73.927385,
+    40.839657,
+    -73.927385,
+    40.839657
+],
+  "geometry": {"coordinates":[-73.927385,40.839657],"type":"Point"}
+}

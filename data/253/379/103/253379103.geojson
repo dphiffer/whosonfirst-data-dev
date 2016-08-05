@@ -1,0 +1,116 @@
+{
+  "id": 253379103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.919422,40.840816,-73.919422,40.840816",
+    "geom:latitude":40.840816,
+    "geom:longitude":-73.919422,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"27 W 170th St",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"10452",
+    "sg:province":"NY",
+    "sg:tags":[
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85865561,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xZinJ2TyOxxl4QLXcywj4_40.840816_-73.919422@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"34017f379146ab91a04d7d9aea0307ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85865561,
+            "region_id":85688543,
+            "venue_id":253379103
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85865561,
+            "region_id":85688543,
+            "venue_id":253379103
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85865561,
+            "region_id":85688543,
+            "venue_id":253379103
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85865561,
+            "region_id":85688543,
+            "venue_id":253379103
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85865561,
+            "region_id":85688543,
+            "venue_id":253379103
+        }
+    ],
+    "wof:id":253379103,
+    "wof:lastmodified":1470414347,
+    "wof:name":"NNI Enterprises LTD",
+    "wof:parent_id":85865561,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.919422,
+    40.840816,
+    -73.919422,
+    40.840816
+],
+  "geometry": {"coordinates":[-73.919422,40.840816],"type":"Point"}
+}

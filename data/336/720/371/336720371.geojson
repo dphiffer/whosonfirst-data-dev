@@ -1,0 +1,118 @@
+{
+  "id": 336720371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.860369,40.868654,-73.860369,40.868654",
+    "geom:latitude":40.868654,
+    "geom:longitude":-73.860369,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"2950 Radcliff Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 653 6946",
+    "sg:postcode":"10469",
+    "sg:province":"NY",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85869069,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Bim6dIogmCB9qvGbsWQZu_40.868654_-73.860369@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8a0b73cd641d960478c26691d9d2e5f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85869069,
+            "region_id":85688543,
+            "venue_id":336720371
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85869069,
+            "region_id":85688543,
+            "venue_id":336720371
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85869069,
+            "region_id":85688543,
+            "venue_id":336720371
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85869069,
+            "region_id":85688543,
+            "venue_id":336720371
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85869069,
+            "region_id":85688543,
+            "venue_id":336720371
+        }
+    ],
+    "wof:id":336720371,
+    "wof:lastmodified":1470414607,
+    "wof:name":"Amja Financial",
+    "wof:parent_id":85869069,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -73.860369,
+    40.868654,
+    -73.860369,
+    40.868654
+],
+  "geometry": {"coordinates":[-73.86036900000001,40.868654],"type":"Point"}
+}

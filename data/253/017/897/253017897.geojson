@@ -1,0 +1,111 @@
+{
+  "id": 253017897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.843198,40.860897,-73.843198,40.860897",
+    "geom:latitude":40.860897,
+    "geom:longitude":-73.843198,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"2300 Eastchester Rd",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 515 5000",
+    "sg:postcode":"10469",
+    "sg:province":"NY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85825625,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hYejh6wZsv1BKMvjVQlze_40.860897_-73.843198@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5f40e023ee17f03c093c680e2b96e6b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85825625,
+            "region_id":85688543,
+            "venue_id":253017897
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85825625,
+            "region_id":85688543,
+            "venue_id":253017897
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85825625,
+            "region_id":85688543,
+            "venue_id":253017897
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85825625,
+            "region_id":85688543,
+            "venue_id":253017897
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85825625,
+            "region_id":85688543,
+            "venue_id":253017897
+        }
+    ],
+    "wof:id":253017897,
+    "wof:lastmodified":1470414332,
+    "wof:name":"Astor Care Medical",
+    "wof:parent_id":85825625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.843198,
+    40.860897,
+    -73.843198,
+    40.860897
+],
+  "geometry": {"coordinates":[-73.843198,40.860897],"type":"Point"}
+}

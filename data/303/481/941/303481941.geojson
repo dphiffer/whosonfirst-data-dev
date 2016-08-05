@@ -1,0 +1,118 @@
+{
+  "id": 303481941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.886096,40.827656,-73.886096,40.827656",
+    "geom:latitude":40.827656,
+    "geom:longitude":-73.886096,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1125 Whitlock Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 328 9308",
+    "sg:postcode":"10459",
+    "sg:province":"NY",
+    "sg:tags":[
+        "automobile",
+        "alarm"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85869443,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43nWj4vNOaFqiRuAUS0sLh_40.827656_-73.886096@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bb7b77e6776aacf4bede01545a258d40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85869443,
+            "region_id":85688543,
+            "venue_id":303481941
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85869443,
+            "region_id":85688543,
+            "venue_id":303481941
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85869443,
+            "region_id":85688543,
+            "venue_id":303481941
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85869443,
+            "region_id":85688543,
+            "venue_id":303481941
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85869443,
+            "region_id":85688543,
+            "venue_id":303481941
+        }
+    ],
+    "wof:id":303481941,
+    "wof:lastmodified":1470414511,
+    "wof:name":"Olympic Alarm Systems",
+    "wof:parent_id":85869443,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "alarm"
+    ]
+},
+  "bbox": [
+    -73.886096,
+    40.827656,
+    -73.886096,
+    40.827656
+],
+  "geometry": {"coordinates":[-73.88609599999999,40.827656],"type":"Point"}
+}

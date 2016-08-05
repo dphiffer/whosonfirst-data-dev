@@ -1,0 +1,116 @@
+{
+  "id": 336947473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.896465,40.855832,-73.896465,40.855832",
+    "geom:latitude":40.855832,
+    "geom:longitude":-73.896465,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"355 Ford St",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 842 9002",
+    "sg:postcode":"10457",
+    "sg:province":"NY",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85819763,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26XRERzywZFWOqrECwffzc_40.855832_-73.896465@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7a14c80c2bdb58514f01ce08f1e4fc57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85819763,
+            "region_id":85688543,
+            "venue_id":336947473
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85819763,
+            "region_id":85688543,
+            "venue_id":336947473
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85819763,
+            "region_id":85688543,
+            "venue_id":336947473
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85819763,
+            "region_id":85688543,
+            "venue_id":336947473
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85819763,
+            "region_id":85688543,
+            "venue_id":336947473
+        }
+    ],
+    "wof:id":336947473,
+    "wof:lastmodified":1470414619,
+    "wof:name":"A A Truck Renting Corp",
+    "wof:parent_id":85819763,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -73.896465,
+    40.855832,
+    -73.896465,
+    40.855832
+],
+  "geometry": {"coordinates":[-73.89646500000001,40.855832],"type":"Point"}
+}

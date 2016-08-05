@@ -1,0 +1,118 @@
+{
+  "id": 252939119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.908956,40.85202,-73.908956,40.85202",
+    "geom:latitude":40.85202,
+    "geom:longitude":-73.908956,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"2031 Jerome Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 299 1371",
+    "sg:postcode":"10453",
+    "sg:province":"NY",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85865671,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gNmGQ5rpi0pMLpNeWfNdH_40.852020_-73.908956@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"63f088478f4168917e647cba40e3c2da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85865671,
+            "region_id":85688543,
+            "venue_id":252939119
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85865671,
+            "region_id":85688543,
+            "venue_id":252939119
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85865671,
+            "region_id":85688543,
+            "venue_id":252939119
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85865671,
+            "region_id":85688543,
+            "venue_id":252939119
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85865671,
+            "region_id":85688543,
+            "venue_id":252939119
+        }
+    ],
+    "wof:id":252939119,
+    "wof:lastmodified":1470414329,
+    "wof:name":"Check Cashing Place",
+    "wof:parent_id":85865671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -73.908956,
+    40.85202,
+    -73.908956,
+    40.85202
+],
+  "geometry": {"coordinates":[-73.908956,40.85202],"type":"Point"}
+}

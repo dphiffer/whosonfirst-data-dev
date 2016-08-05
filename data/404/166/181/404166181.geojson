@@ -1,0 +1,118 @@
+{
+  "id": 404166181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.835266,40.838511,-73.835266,40.838511",
+    "geom:latitude":40.838511,
+    "geom:longitude":-73.835266,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"3117 E Tremont Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 828 9503",
+    "sg:postcode":"10461",
+    "sg:province":"NY",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85892785,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Oao44lJ86N320NubD9De1_40.838511_-73.835266@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bec1daff95ede83c66e52efe15b5ddd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85892785,
+            "region_id":85688543,
+            "venue_id":404166181
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85892785,
+            "region_id":85688543,
+            "venue_id":404166181
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85892785,
+            "region_id":85688543,
+            "venue_id":404166181
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85892785,
+            "region_id":85688543,
+            "venue_id":404166181
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85892785,
+            "region_id":85688543,
+            "venue_id":404166181
+        }
+    ],
+    "wof:id":404166181,
+    "wof:lastmodified":1470414912,
+    "wof:name":"KAYO Contracting Corp",
+    "wof:parent_id":85892785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.835266,
+    40.838511,
+    -73.835266,
+    40.838511
+],
+  "geometry": {"coordinates":[-73.835266,40.838511],"type":"Point"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 370260147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.891785,40.864418,-73.891785,40.864418",
+    "geom:latitude":40.864418,
+    "geom:longitude":-73.891785,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"322 E 194th St",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 563 7718",
+    "sg:postcode":"10458",
+    "sg:province":"NY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85819763,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2e1vRNL4ITgkpOh8UZWMc1_40.864418_-73.891785@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"490e4d5e86fc6a3b48fc7712078f6456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85819763,
+            "region_id":85688543,
+            "venue_id":370260147
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85819763,
+            "region_id":85688543,
+            "venue_id":370260147
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85819763,
+            "region_id":85688543,
+            "venue_id":370260147
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85819763,
+            "region_id":85688543,
+            "venue_id":370260147
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85819763,
+            "region_id":85688543,
+            "venue_id":370260147
+        }
+    ],
+    "wof:id":370260147,
+    "wof:lastmodified":1470414769,
+    "wof:name":"Anasco Deli Grocery Corp",
+    "wof:parent_id":85819763,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -73.891785,
+    40.864418,
+    -73.891785,
+    40.864418
+],
+  "geometry": {"coordinates":[-73.891785,40.864418],"type":"Point"}
+}

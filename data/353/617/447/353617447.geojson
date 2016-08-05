@@ -1,0 +1,78 @@
+{
+  "id": 353617447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.839824,40.673839,-73.839824,40.673839",
+    "geom:latitude":40.673839,
+    "geom:longitude":-73.839824,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"9632 Linden Blvd",
+    "sg:city":"Jamaica",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 347 923 4801",
+    "sg:postcode":"11417",
+    "sg:province":"NY",
+    "sg:tags":[
+        "key"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420529701,
+        102191575,
+        85633793,
+        85977539,
+        421205767,
+        102082377,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FG1l5xYX9TLChPn4LLsHA_40.673839_-73.839824@1303262360"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"60dd6eda8ae721c699ec6bb532935b71",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205767,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":420529701,
+            "region_id":85688543,
+            "venue_id":353617447
+        }
+    ],
+    "wof:id":353617447,
+    "wof:lastmodified":1470414694,
+    "wof:name":"A Best Twenty Four Hr Locksmtih",
+    "wof:parent_id":420529701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "key"
+    ]
+},
+  "bbox": [
+    -73.839824,
+    40.673839,
+    -73.839824,
+    40.673839
+],
+  "geometry": {"coordinates":[-73.83982399999999,40.673839],"type":"Point"}
+}

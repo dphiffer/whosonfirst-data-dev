@@ -1,0 +1,111 @@
+{
+  "id": 286515227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.90851,40.848342,-73.90851,40.848342",
+    "geom:latitude":40.848342,
+    "geom:longitude":-73.90851,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1865 Morris Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 583 7750",
+    "sg:postcode":"10453",
+    "sg:province":"NY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85865671,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nElG9sy9vB6VmPa1h6rPY_40.848342_-73.908510@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e27410e7ca9e64e6fdd9dc2a0bd656a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85865671,
+            "region_id":85688543,
+            "venue_id":286515227
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85865671,
+            "region_id":85688543,
+            "venue_id":286515227
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85865671,
+            "region_id":85688543,
+            "venue_id":286515227
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85865671,
+            "region_id":85688543,
+            "venue_id":286515227
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85865671,
+            "region_id":85688543,
+            "venue_id":286515227
+        }
+    ],
+    "wof:id":286515227,
+    "wof:lastmodified":1470414447,
+    "wof:name":"Bronx Junior High School 117",
+    "wof:parent_id":85865671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.90851,
+    40.848342,
+    -73.90851,
+    40.848342
+],
+  "geometry": {"coordinates":[-73.90851000000001,40.848342],"type":"Point"}
+}

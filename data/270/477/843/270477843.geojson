@@ -1,0 +1,118 @@
+{
+  "id": 270477843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.88726,40.828221,-73.88726,40.828221",
+    "geom:latitude":40.828221,
+    "geom:longitude":-73.88726,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1074 Home St",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 294 4475",
+    "sg:postcode":"10459",
+    "sg:province":"NY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85869201,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70QFQDRDt1DMcgFfH8ojh0_40.828221_-73.887260@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3f35e396941e87477c1a13aa5a29af59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85869201,
+            "region_id":85688543,
+            "venue_id":270477843
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85869201,
+            "region_id":85688543,
+            "venue_id":270477843
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85869201,
+            "region_id":85688543,
+            "venue_id":270477843
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85869201,
+            "region_id":85688543,
+            "venue_id":270477843
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85869201,
+            "region_id":85688543,
+            "venue_id":270477843
+        }
+    ],
+    "wof:id":270477843,
+    "wof:lastmodified":1470414430,
+    "wof:name":"Bruckner Plumbing & Heating",
+    "wof:parent_id":85869201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.88726,
+    40.828221,
+    -73.88726,
+    40.828221
+],
+  "geometry": {"coordinates":[-73.88726,40.828221],"type":"Point"}
+}

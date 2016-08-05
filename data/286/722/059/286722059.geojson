@@ -1,0 +1,164 @@
+{
+  "id": 286722059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.909243,40.830317,-73.909243,40.830317",
+    "geom:latitude":40.830317,
+    "geom:longitude":-73.909243,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"419 E 167th St",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 293 5878",
+    "sg:postcode":"10456",
+    "sg:province":"NY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85892797,
+        102082377,
+        102081863,
+        102083063,
+        102081779,
+        85892793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FmHUE5DnVpAQOpk1RWa4M_40.830317_-73.909243@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b5d0b709236cd5b5104c98797fc978ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85892797,
+            "region_id":85688543,
+            "venue_id":286722059
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85892797,
+            "region_id":85688543,
+            "venue_id":286722059
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85892797,
+            "region_id":85688543,
+            "venue_id":286722059
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85892797,
+            "region_id":85688543,
+            "venue_id":286722059
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85892797,
+            "region_id":85688543,
+            "venue_id":286722059
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85892793,
+            "region_id":85688543,
+            "venue_id":286722059
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85892793,
+            "region_id":85688543,
+            "venue_id":286722059
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85892793,
+            "region_id":85688543,
+            "venue_id":286722059
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85892793,
+            "region_id":85688543,
+            "venue_id":286722059
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85892793,
+            "region_id":85688543,
+            "venue_id":286722059
+        }
+    ],
+    "wof:id":286722059,
+    "wof:lastmodified":1470414457,
+    "wof:name":"Imedge Auto Sales Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.909243,
+    40.830317,
+    -73.909243,
+    40.830317
+],
+  "geometry": {"coordinates":[-73.909243,40.830317],"type":"Point"}
+}

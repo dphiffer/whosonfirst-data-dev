@@ -1,0 +1,111 @@
+{
+  "id": 353795493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.922517,40.83919,-73.922517,40.83919",
+    "geom:latitude":40.83919,
+    "geom:longitude":-73.922517,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1256 Shakespeare Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 538 8181",
+    "sg:postcode":"10452",
+    "sg:province":"NY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85869335,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5azbWuZCHvUOBN3NedLiTa_40.839190_-73.922517@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"30e403f3975b188614fcf5d489b49151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85869335,
+            "region_id":85688543,
+            "venue_id":353795493
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85869335,
+            "region_id":85688543,
+            "venue_id":353795493
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85869335,
+            "region_id":85688543,
+            "venue_id":353795493
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85869335,
+            "region_id":85688543,
+            "venue_id":353795493
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85869335,
+            "region_id":85688543,
+            "venue_id":353795493
+        }
+    ],
+    "wof:id":353795493,
+    "wof:lastmodified":1470414718,
+    "wof:name":"Excalibur Designer Fashion Inc",
+    "wof:parent_id":85869335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.922517,
+    40.83919,
+    -73.922517,
+    40.83919
+],
+  "geometry": {"coordinates":[-73.922517,40.83919],"type":"Point"}
+}

@@ -1,0 +1,119 @@
+{
+  "id": 387619143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.893118,40.875284,-73.893118,40.875284",
+    "geom:latitude":40.875284,
+    "geom:longitude":-73.893118,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"31 Bedford Park Blvd W",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 933 1800",
+    "sg:postcode":"10468",
+    "sg:province":"NY",
+    "sg:tags":[
+        "broker",
+        "insurance"
+    ],
+    "sg:website":"www.feinbergbros.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85828377,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mIbahtyb2yx5Lqr3ewQsb_40.875284_-73.893118@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7914e06e18c451cc86e0e1c5e2bbdcf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85828377,
+            "region_id":85688543,
+            "venue_id":387619143
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85828377,
+            "region_id":85688543,
+            "venue_id":387619143
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85828377,
+            "region_id":85688543,
+            "venue_id":387619143
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85828377,
+            "region_id":85688543,
+            "venue_id":387619143
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85828377,
+            "region_id":85688543,
+            "venue_id":387619143
+        }
+    ],
+    "wof:id":387619143,
+    "wof:lastmodified":1470414872,
+    "wof:name":"Feinberg Brothers Agency Inc",
+    "wof:parent_id":85828377,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "insurance"
+    ]
+},
+  "bbox": [
+    -73.893118,
+    40.875284,
+    -73.893118,
+    40.875284
+],
+  "geometry": {"coordinates":[-73.893118,40.875284],"type":"Point"}
+}

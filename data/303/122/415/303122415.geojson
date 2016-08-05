@@ -1,0 +1,116 @@
+{
+  "id": 303122415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.83461,40.837859,-73.83461,40.837859",
+    "geom:latitude":40.837859,
+    "geom:longitude":-73.83461,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"3141 E Tremont Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 829 3067",
+    "sg:postcode":"10461",
+    "sg:province":"NY",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85892785,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SjvD8lPIvFWxF7skFbTzs_40.837859_-73.834610@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a2372820786a6a1bfd7ee5a26cab6db0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85892785,
+            "region_id":85688543,
+            "venue_id":303122415
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85892785,
+            "region_id":85688543,
+            "venue_id":303122415
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85892785,
+            "region_id":85688543,
+            "venue_id":303122415
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85892785,
+            "region_id":85688543,
+            "venue_id":303122415
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85892785,
+            "region_id":85688543,
+            "venue_id":303122415
+        }
+    ],
+    "wof:id":303122415,
+    "wof:lastmodified":1470414493,
+    "wof:name":"Inc Care Child Years Tender",
+    "wof:parent_id":85892785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -73.83461,
+    40.837859,
+    -73.83461,
+    40.837859
+],
+  "geometry": {"coordinates":[-73.83461,40.837859],"type":"Point"}
+}

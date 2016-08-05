@@ -1,0 +1,111 @@
+{
+  "id": 353756001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.73677,40.627879,-73.73677,40.627879",
+    "geom:latitude":40.627879,
+    "geom:longitude":-73.73677,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"450 Rockaway Turnpike",
+    "sg:city":"Cedarhurst",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 516 371 5375",
+    "sg:postcode":"11516",
+    "sg:province":"NY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102534365,
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FglhDUDaGfvIKogmib0C0_40.627879_-73.736770@1303262364"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"15bf0a9523e7778c2d8d99037d4d5312",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "region_id":85688543,
+            "venue_id":353756001
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "region_id":85688543,
+            "venue_id":353756001
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "region_id":85688543,
+            "venue_id":353756001
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "region_id":85688543,
+            "venue_id":353756001
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "region_id":85688543,
+            "venue_id":353756001
+        }
+    ],
+    "wof:id":353756001,
+    "wof:lastmodified":1470414715,
+    "wof:name":"Jerk Grill",
+    "wof:parent_id":102534365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.73677,
+    40.627879,
+    -73.73677,
+    40.627879
+],
+  "geometry": {"coordinates":[-73.73677000000001,40.627879],"type":"Point"}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 353515899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.883436,40.875384,-73.883436,40.875384",
+    "geom:latitude":40.875384,
+    "geom:longitude":-73.883436,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"200 E 205th St",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"10458",
+    "sg:province":"NY",
+    "sg:tags":[
+        "preparation",
+        "toilet",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85869557,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tYk52mEDjL7YpalDKtwCB_40.875384_-73.883436@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"19a18bf9cf5327865dde2fb2e7201b38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85869557,
+            "region_id":85688543,
+            "venue_id":353515899
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85869557,
+            "region_id":85688543,
+            "venue_id":353515899
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85869557,
+            "region_id":85688543,
+            "venue_id":353515899
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85869557,
+            "region_id":85688543,
+            "venue_id":353515899
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85869557,
+            "region_id":85688543,
+            "venue_id":353515899
+        }
+    ],
+    "wof:id":353515899,
+    "wof:lastmodified":1470414681,
+    "wof:name":"Kimberlystwins Inc",
+    "wof:parent_id":85869557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "toilet",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.883436,
+    40.875384,
+    -73.883436,
+    40.875384
+],
+  "geometry": {"coordinates":[-73.883436,40.875384],"type":"Point"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 304078949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.843108,40.859438,-73.843108,40.859438",
+    "geom:latitude":40.859438,
+    "geom:longitude":-73.843108,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1454 Astor Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 653 5007",
+    "sg:postcode":"10469",
+    "sg:province":"NY",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85825625,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NCWAG6fKwvS23HA7R14Xs_40.859438_-73.843108@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4396ef11183aacd66720fdc94e996f2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85825625,
+            "region_id":85688543,
+            "venue_id":304078949
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85825625,
+            "region_id":85688543,
+            "venue_id":304078949
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85825625,
+            "region_id":85688543,
+            "venue_id":304078949
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85825625,
+            "region_id":85688543,
+            "venue_id":304078949
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85825625,
+            "region_id":85688543,
+            "venue_id":304078949
+        }
+    ],
+    "wof:id":304078949,
+    "wof:lastmodified":1470414543,
+    "wof:name":"Engine Co 97 Hl 92",
+    "wof:parent_id":85825625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -73.843108,
+    40.859438,
+    -73.843108,
+    40.859438
+],
+  "geometry": {"coordinates":[-73.843108,40.859438],"type":"Point"}
+}

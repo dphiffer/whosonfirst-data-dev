@@ -1,0 +1,116 @@
+{
+  "id": 252747355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.884364,40.849253,-73.884364,40.849253",
+    "geom:latitude":40.849253,
+    "geom:longitude":-73.884364,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"797 E 182nd St",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 584 6096",
+    "sg:postcode":"10460",
+    "sg:province":"NY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85865533,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A9IdmpjdItZDVhMgfXFW3_40.849253_-73.884364@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a665410a253d13a1f8e725a03fb67c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85865533,
+            "region_id":85688543,
+            "venue_id":252747355
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85865533,
+            "region_id":85688543,
+            "venue_id":252747355
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85865533,
+            "region_id":85688543,
+            "venue_id":252747355
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85865533,
+            "region_id":85688543,
+            "venue_id":252747355
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85865533,
+            "region_id":85688543,
+            "venue_id":252747355
+        }
+    ],
+    "wof:id":252747355,
+    "wof:lastmodified":1470414321,
+    "wof:name":"Sonia Grocery Store",
+    "wof:parent_id":85865533,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -73.884364,
+    40.849253,
+    -73.884364,
+    40.849253
+],
+  "geometry": {"coordinates":[-73.88436400000001,40.849253],"type":"Point"}
+}

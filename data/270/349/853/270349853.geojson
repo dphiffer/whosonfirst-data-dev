@@ -1,0 +1,118 @@
+{
+  "id": 270349853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.878784,40.873137,-73.878784,40.873137",
+    "geom:latitude":40.873137,
+    "geom:longitude":-73.878784,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"282 E 204th St",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 405 0236",
+    "sg:postcode":"10467",
+    "sg:province":"NY",
+    "sg:tags":[
+        "salon",
+        "beauty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85869557,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wDQyB3Moq6EJ3RJR3joFo_40.873137_-73.878784@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b5929492a11c0b7ca1882c091fc6aa19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85869557,
+            "region_id":85688543,
+            "venue_id":270349853
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85869557,
+            "region_id":85688543,
+            "venue_id":270349853
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85869557,
+            "region_id":85688543,
+            "venue_id":270349853
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85869557,
+            "region_id":85688543,
+            "venue_id":270349853
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85869557,
+            "region_id":85688543,
+            "venue_id":270349853
+        }
+    ],
+    "wof:id":270349853,
+    "wof:lastmodified":1470414424,
+    "wof:name":"Beauty Supply Shop",
+    "wof:parent_id":85869557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon",
+        "beauty"
+    ]
+},
+  "bbox": [
+    -73.878784,
+    40.873137,
+    -73.878784,
+    40.873137
+],
+  "geometry": {"coordinates":[-73.878784,40.873137],"type":"Point"}
+}

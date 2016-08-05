@@ -1,0 +1,91 @@
+{
+  "id": 287183477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.985835,40.637616,-73.985835,40.637616",
+    "geom:latitude":40.637616,
+    "geom:longitude":-73.985835,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"4101 14th Ave",
+    "sg:city":"Brooklyn",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 851 0811",
+    "sg:postcode":"11219",
+    "sg:province":"NY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85840745,
+        102191575,
+        85633793,
+        85977539,
+        421205765,
+        102082361,
+        85688543,
+        420558599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GLa9MihswYLaxZehBSNxY_40.637616_-73.985835@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"46590bce5b5aa348efd5096114889727",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205765,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85840745,
+            "region_id":85688543,
+            "venue_id":287183477
+        },
+        {
+            "borough_id":421205765,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":420558599,
+            "region_id":85688543,
+            "venue_id":287183477
+        }
+    ],
+    "wof:id":287183477,
+    "wof:lastmodified":1470414481,
+    "wof:name":"Diana Ross MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.985835,
+    40.637616,
+    -73.985835,
+    40.637616
+],
+  "geometry": {"coordinates":[-73.98583499999999,40.637616],"type":"Point"}
+}

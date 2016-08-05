@@ -1,0 +1,118 @@
+{
+  "id": 337504139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.876798,40.822893,-73.876798,40.822893",
+    "geom:latitude":40.822893,
+    "geom:longitude":-73.876798,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"942 Boynton Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 861 0843",
+    "sg:postcode":"10473",
+    "sg:province":"NY",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        420528053,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jVEbhEVVy3E6np14sEm5g_40.822893_-73.876798@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bf9ff8b251b49037d9783d6fb7689fbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":420528053,
+            "region_id":85688543,
+            "venue_id":337504139
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":420528053,
+            "region_id":85688543,
+            "venue_id":337504139
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":420528053,
+            "region_id":85688543,
+            "venue_id":337504139
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":420528053,
+            "region_id":85688543,
+            "venue_id":337504139
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":420528053,
+            "region_id":85688543,
+            "venue_id":337504139
+        }
+    ],
+    "wof:id":337504139,
+    "wof:lastmodified":1470414657,
+    "wof:name":"Overseas Investors LLC",
+    "wof:parent_id":420528053,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -73.876798,
+    40.822893,
+    -73.876798,
+    40.822893
+],
+  "geometry": {"coordinates":[-73.87679799999999,40.822893],"type":"Point"}
+}

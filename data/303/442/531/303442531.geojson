@@ -1,0 +1,119 @@
+{
+  "id": 303442531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.854768,40.865424,-73.854768,40.865424",
+    "geom:latitude":40.865424,
+    "geom:longitude":-73.854768,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1101 Allerton Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 535 9256",
+    "sg:postcode":"10469",
+    "sg:province":"NY",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        420528059,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:brand_id":420574175,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NZSTkMvNlz9kBIizkeYkT_40.865424_-73.854768@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2f356b96422cc876711bc075cfe2e647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":420528059,
+            "region_id":85688543,
+            "venue_id":303442531
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":420528059,
+            "region_id":85688543,
+            "venue_id":303442531
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":420528059,
+            "region_id":85688543,
+            "venue_id":303442531
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":420528059,
+            "region_id":85688543,
+            "venue_id":303442531
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":420528059,
+            "region_id":85688543,
+            "venue_id":303442531
+        }
+    ],
+    "wof:id":303442531,
+    "wof:lastmodified":1470414509,
+    "wof:name":"Emergency Locksmith",
+    "wof:parent_id":420528059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -73.854768,
+    40.865424,
+    -73.854768,
+    40.865424
+],
+  "geometry": {"coordinates":[-73.85476800000001,40.865424],"type":"Point"}
+}

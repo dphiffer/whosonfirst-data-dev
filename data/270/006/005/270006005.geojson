@@ -1,0 +1,116 @@
+{
+  "id": 270006005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.911706,40.84673,-73.911706,40.84673",
+    "geom:latitude":40.84673,
+    "geom:longitude":-73.911706,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1724 Townsend Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 716 9635",
+    "sg:postcode":"10453",
+    "sg:province":"NY",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85865671,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YR7PiDFPsRHWzmeuSODaR_40.846730_-73.911706@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ad068bdbf239d67a25a19387108fa161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85865671,
+            "region_id":85688543,
+            "venue_id":270006005
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85865671,
+            "region_id":85688543,
+            "venue_id":270006005
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85865671,
+            "region_id":85688543,
+            "venue_id":270006005
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85865671,
+            "region_id":85688543,
+            "venue_id":270006005
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85865671,
+            "region_id":85688543,
+            "venue_id":270006005
+        }
+    ],
+    "wof:id":270006005,
+    "wof:lastmodified":1470414403,
+    "wof:name":"Joseph Ford",
+    "wof:parent_id":85865671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -73.911706,
+    40.84673,
+    -73.911706,
+    40.84673
+],
+  "geometry": {"coordinates":[-73.911706,40.84673],"type":"Point"}
+}

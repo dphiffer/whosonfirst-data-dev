@@ -1,0 +1,118 @@
+{
+  "id": 252910219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.856784,40.867774,-73.856784,40.867774",
+    "geom:latitude":40.867774,
+    "geom:longitude":-73.856784,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1053 Arnow Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 547 0464",
+    "sg:postcode":"10469",
+    "sg:province":"NY",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        420528059,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OeAZd7GFAMTUpRPhyz4P9_40.867774_-73.856784@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4965d858a68ff35505017670438a2499",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":420528059,
+            "region_id":85688543,
+            "venue_id":252910219
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":420528059,
+            "region_id":85688543,
+            "venue_id":252910219
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":420528059,
+            "region_id":85688543,
+            "venue_id":252910219
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":420528059,
+            "region_id":85688543,
+            "venue_id":252910219
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":420528059,
+            "region_id":85688543,
+            "venue_id":252910219
+        }
+    ],
+    "wof:id":252910219,
+    "wof:lastmodified":1470414327,
+    "wof:name":"Delta General Contracting",
+    "wof:parent_id":420528059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.856784,
+    40.867774,
+    -73.856784,
+    40.867774
+],
+  "geometry": {"coordinates":[-73.856784,40.867774],"type":"Point"}
+}

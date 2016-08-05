@@ -1,0 +1,116 @@
+{
+  "id": 336808697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.908239,40.846572,-73.908239,40.846572",
+    "geom:latitude":40.846572,
+    "geom:longitude":-73.908239,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1740 Eastburn Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 299 7867",
+    "sg:postcode":"10457",
+    "sg:province":"NY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85865671,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yulFlGDY3oDkvCzsEf8Dx_40.846572_-73.908239@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ef30d61ae3f5d57b99ecba94e5c03c99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85865671,
+            "region_id":85688543,
+            "venue_id":336808697
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85865671,
+            "region_id":85688543,
+            "venue_id":336808697
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85865671,
+            "region_id":85688543,
+            "venue_id":336808697
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85865671,
+            "region_id":85688543,
+            "venue_id":336808697
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85865671,
+            "region_id":85688543,
+            "venue_id":336808697
+        }
+    ],
+    "wof:id":336808697,
+    "wof:lastmodified":1470414612,
+    "wof:name":"Church Of Deliverance Outreach",
+    "wof:parent_id":85865671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -73.908239,
+    40.846572,
+    -73.908239,
+    40.846572
+],
+  "geometry": {"coordinates":[-73.90823899999999,40.846572],"type":"Point"}
+}

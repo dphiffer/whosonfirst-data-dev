@@ -1,0 +1,111 @@
+{
+  "id": 403940031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.91986,40.815864,-73.91986,40.815864",
+    "geom:latitude":40.815864,
+    "geom:longitude":-73.91986,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"398 E 148th St",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 401 6778",
+    "sg:postcode":"10455",
+    "sg:province":"NY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85835417,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LqzrlR9fs5M2B6PZLR81v_40.815864_-73.919860@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cea75605d377deb321c0c14c0ab030f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85835417,
+            "region_id":85688543,
+            "venue_id":403940031
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85835417,
+            "region_id":85688543,
+            "venue_id":403940031
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85835417,
+            "region_id":85688543,
+            "venue_id":403940031
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85835417,
+            "region_id":85688543,
+            "venue_id":403940031
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85835417,
+            "region_id":85688543,
+            "venue_id":403940031
+        }
+    ],
+    "wof:id":403940031,
+    "wof:lastmodified":1470414903,
+    "wof:name":"Span-AM Pharmacy",
+    "wof:parent_id":85835417,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.91986,
+    40.815864,
+    -73.91986,
+    40.815864
+],
+  "geometry": {"coordinates":[-73.91986,40.815864],"type":"Point"}
+}

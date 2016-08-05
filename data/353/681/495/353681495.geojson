@@ -1,0 +1,120 @@
+{
+  "id": 353681495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.901889,40.861,-73.901889,40.861",
+    "geom:latitude":40.861,
+    "geom:longitude":-73.901889,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"2440 Jerome Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 733 4967",
+    "sg:postcode":"10468",
+    "sg:province":"NY",
+    "sg:tags":[
+        "salvage",
+        "surplus",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85819763,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fqCKgLXwWFtHzTaP4djJX_40.861000_-73.901889@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2eac2e171c670f4a3c3ed5fb4d9250ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85819763,
+            "region_id":85688543,
+            "venue_id":353681495
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85819763,
+            "region_id":85688543,
+            "venue_id":353681495
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85819763,
+            "region_id":85688543,
+            "venue_id":353681495
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85819763,
+            "region_id":85688543,
+            "venue_id":353681495
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85819763,
+            "region_id":85688543,
+            "venue_id":353681495
+        }
+    ],
+    "wof:id":353681495,
+    "wof:lastmodified":1470414705,
+    "wof:name":"Arrow Army & Navy",
+    "wof:parent_id":85819763,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salvage",
+        "surplus",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -73.901889,
+    40.861,
+    -73.901889,
+    40.861
+],
+  "geometry": {"coordinates":[-73.901889,40.861],"type":"Point"}
+}

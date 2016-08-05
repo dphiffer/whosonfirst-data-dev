@@ -1,0 +1,116 @@
+{
+  "id": 320190493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.878959,40.882601,-73.878959,40.882601",
+    "geom:latitude":40.882601,
+    "geom:longitude":-73.878959,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"3553 Rochambeau Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 515 7013",
+    "sg:postcode":"10467",
+    "sg:province":"NY",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85869557,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0N3bUPNSdG3fQy3UFMZMxS_40.882601_-73.878959@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5b648b23e928c258603a2a25feceb956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85869557,
+            "region_id":85688543,
+            "venue_id":320190493
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85869557,
+            "region_id":85688543,
+            "venue_id":320190493
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85869557,
+            "region_id":85688543,
+            "venue_id":320190493
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85869557,
+            "region_id":85688543,
+            "venue_id":320190493
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85869557,
+            "region_id":85688543,
+            "venue_id":320190493
+        }
+    ],
+    "wof:id":320190493,
+    "wof:lastmodified":1470414565,
+    "wof:name":"Abbott House",
+    "wof:parent_id":85869557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -73.878959,
+    40.882601,
+    -73.878959,
+    40.882601
+],
+  "geometry": {"coordinates":[-73.87895899999999,40.882601],"type":"Point"}
+}

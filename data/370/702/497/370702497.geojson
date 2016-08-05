@@ -1,0 +1,116 @@
+{
+  "id": 370702497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.902099,40.831571,-73.902099,40.831571",
+    "geom:latitude":40.831571,
+    "geom:longitude":-73.902099,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1281 Franklin Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 992 5668",
+    "sg:postcode":"10456",
+    "sg:province":"NY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        420560165,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GAwJtCStOA5kz1tymrewE_40.831571_-73.902099@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ff745a9dfe5f9a0bfd18827aefce9481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":420560165,
+            "region_id":85688543,
+            "venue_id":370702497
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":420560165,
+            "region_id":85688543,
+            "venue_id":370702497
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":420560165,
+            "region_id":85688543,
+            "venue_id":370702497
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":420560165,
+            "region_id":85688543,
+            "venue_id":370702497
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":420560165,
+            "region_id":85688543,
+            "venue_id":370702497
+        }
+    ],
+    "wof:id":370702497,
+    "wof:lastmodified":1470414801,
+    "wof:name":"Franklin Ave Baptist Church",
+    "wof:parent_id":420560165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -73.902099,
+    40.831571,
+    -73.902099,
+    40.831571
+],
+  "geometry": {"coordinates":[-73.90209900000001,40.831571],"type":"Point"}
+}

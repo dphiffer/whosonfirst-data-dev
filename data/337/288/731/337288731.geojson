@@ -1,0 +1,88 @@
+{
+  "id": 337288731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.997952,40.665092,-73.997952,40.665092",
+    "geom:latitude":40.665092,
+    "geom:longitude":-73.997952,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"74 20th St Fl 2",
+    "sg:city":"Brooklyn",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 965 8600",
+    "sg:postcode":"11232",
+    "sg:province":"NY",
+    "sg:tags":[
+        "orthopedic",
+        "appliance",
+        "appliances-manufacturing"
+    ],
+    "sg:website":"http://www.profootcare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851575,
+        102191575,
+        85633793,
+        85977539,
+        421205765,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6b37edVxh9uOeGOvJVl6xj_40.665092_-73.997952@1303262348"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8b07bfbc64afdf7079eddb68110dacdb",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205765,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85851575,
+            "region_id":85688543,
+            "venue_id":337288731
+        }
+    ],
+    "wof:id":337288731,
+    "wof:lastmodified":1470414622,
+    "wof:name":"Profoot, Inc.",
+    "wof:parent_id":85851575,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "orthopedic",
+        "appliance",
+        "appliances-manufacturing"
+    ]
+},
+  "bbox": [
+    -73.997952,
+    40.665092,
+    -73.997952,
+    40.665092
+],
+  "geometry": {"coordinates":[-73.997952,40.665092],"type":"Point"}
+}

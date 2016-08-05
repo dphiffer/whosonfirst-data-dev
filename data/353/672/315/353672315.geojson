@@ -1,0 +1,124 @@
+{
+  "id": 353672315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.786098,40.644005,-73.786098,40.644005",
+    "geom:latitude":40.644005,
+    "geom:longitude":-73.786098,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"Terminal 4",
+    "sg:city":"Jamaica",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 751 3175",
+    "sg:postcode":"11430",
+    "sg:province":"NY",
+    "sg:tags":[
+        "designer",
+        "jeweler"
+    ],
+    "sg:website":"http://www.ultradiamonds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102534365,
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dtmzIKV6ptokCDvqOAo30_40.644005_-73.786098@1303262361"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"023d23321cb8599e534ddeaf4babc466",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "region_id":85688543,
+            "venue_id":353672315
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "region_id":85688543,
+            "venue_id":353672315
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "region_id":85688543,
+            "venue_id":353672315
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "region_id":85688543,
+            "venue_id":353672315
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "region_id":85688543,
+            "venue_id":353672315
+        }
+    ],
+    "wof:id":353672315,
+    "wof:lastmodified":1470414703,
+    "wof:name":"Ultra Diamonds",
+    "wof:parent_id":102534365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer",
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -73.786098,
+    40.644005,
+    -73.786098,
+    40.644005
+],
+  "geometry": {"coordinates":[-73.786098,40.644005],"type":"Point"}
+}

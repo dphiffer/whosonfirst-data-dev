@@ -1,0 +1,118 @@
+{
+  "id": 287084859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.865533,40.852299,-73.865533,40.852299",
+    "geom:latitude":40.852299,
+    "geom:longitude":-73.865533,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"770 Brady Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 518 9603",
+    "sg:postcode":"10462",
+    "sg:province":"NY",
+    "sg:tags":[
+        "building",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85807771,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22gB7muKLVCDHC1pM0QRuh_40.852299_-73.865533@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1cc90a819ab104ae2954f2230b09ef73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85807771,
+            "region_id":85688543,
+            "venue_id":287084859
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85807771,
+            "region_id":85688543,
+            "venue_id":287084859
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85807771,
+            "region_id":85688543,
+            "venue_id":287084859
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85807771,
+            "region_id":85688543,
+            "venue_id":287084859
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85807771,
+            "region_id":85688543,
+            "venue_id":287084859
+        }
+    ],
+    "wof:id":287084859,
+    "wof:lastmodified":1470414476,
+    "wof:name":"Ende Realty Co",
+    "wof:parent_id":85807771,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -73.865533,
+    40.852299,
+    -73.865533,
+    40.852299
+],
+  "geometry": {"coordinates":[-73.865533,40.852299],"type":"Point"}
+}

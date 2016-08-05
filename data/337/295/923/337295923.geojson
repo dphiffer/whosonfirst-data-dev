@@ -1,0 +1,79 @@
+{
+  "id": 337295923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.929332,40.615763,-73.929332,40.615763",
+    "geom:latitude":40.615763,
+    "geom:longitude":-73.929332,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"2220 Flatbush Ave",
+    "sg:city":"Brooklyn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 677 6700",
+    "sg:postcode":"11234",
+    "sg:province":"NY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.verg-brooklyn.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558701,
+        102191575,
+        85633793,
+        85977539,
+        421205765,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tT5pIVzSzMf1ZVevT9KyY_40.615763_-73.929332@1303262349"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6494b71b75f498d63511f2428ff0a3d8",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205765,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":420558701,
+            "region_id":85688543,
+            "venue_id":337295923
+        }
+    ],
+    "wof:id":337295923,
+    "wof:lastmodified":1470414624,
+    "wof:name":"Veterinary Emergency & Referral Group South",
+    "wof:parent_id":420558701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -73.929332,
+    40.615763,
+    -73.929332,
+    40.615763
+],
+  "geometry": {"coordinates":[-73.929332,40.615763],"type":"Point"}
+}

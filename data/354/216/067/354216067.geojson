@@ -1,0 +1,162 @@
+{
+  "id": 354216067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.921274,40.805038,-73.921274,40.805038",
+    "geom:latitude":40.805038,
+    "geom:longitude":-73.921274,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"496 E 134th St",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 402 3111",
+    "sg:postcode":"10454",
+    "sg:province":"NY",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85868025,
+        102082377,
+        102081863,
+        102083063,
+        102081779,
+        85842807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pwYtOJP1MXUe9rsUpd7Lo_40.805038_-73.921274@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"97737ec7b827f5369460ad7661a338c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85868025,
+            "region_id":85688543,
+            "venue_id":354216067
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85868025,
+            "region_id":85688543,
+            "venue_id":354216067
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85868025,
+            "region_id":85688543,
+            "venue_id":354216067
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85868025,
+            "region_id":85688543,
+            "venue_id":354216067
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85868025,
+            "region_id":85688543,
+            "venue_id":354216067
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85842807,
+            "region_id":85688543,
+            "venue_id":354216067
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85842807,
+            "region_id":85688543,
+            "venue_id":354216067
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85842807,
+            "region_id":85688543,
+            "venue_id":354216067
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85842807,
+            "region_id":85688543,
+            "venue_id":354216067
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85842807,
+            "region_id":85688543,
+            "venue_id":354216067
+        }
+    ],
+    "wof:id":354216067,
+    "wof:lastmodified":1470414747,
+    "wof:name":"Gil Moving & Storage Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    -73.921274,
+    40.805038,
+    -73.921274,
+    40.805038
+],
+  "geometry": {"coordinates":[-73.921274,40.805038],"type":"Point"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 269646565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.836818,40.857277,-73.836818,40.857277",
+    "geom:latitude":40.857277,
+    "geom:longitude":-73.836818,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1723 Stillwell Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"10469",
+    "sg:province":"NY",
+    "sg:tags":[
+        "book"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85825625,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SjhZR8X7VmRBFiVnRiWon_40.857277_-73.836818@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"79450566213c4dd83323581407cce35e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85825625,
+            "region_id":85688543,
+            "venue_id":269646565
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85825625,
+            "region_id":85688543,
+            "venue_id":269646565
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85825625,
+            "region_id":85688543,
+            "venue_id":269646565
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85825625,
+            "region_id":85688543,
+            "venue_id":269646565
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85825625,
+            "region_id":85688543,
+            "venue_id":269646565
+        }
+    ],
+    "wof:id":269646565,
+    "wof:lastmodified":1470414379,
+    "wof:name":"Nelson J&C Inc",
+    "wof:parent_id":85825625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "book"
+    ]
+},
+  "bbox": [
+    -73.836818,
+    40.857277,
+    -73.836818,
+    40.857277
+],
+  "geometry": {"coordinates":[-73.83681799999999,40.857277],"type":"Point"}
+}

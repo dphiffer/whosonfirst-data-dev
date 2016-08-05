@@ -1,0 +1,120 @@
+{
+  "id": 270316219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.883197,40.827676,-73.883197,40.827676",
+    "geom:latitude":40.827676,
+    "geom:longitude":-73.883197,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1123 Bronx River Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 589 9000",
+    "sg:postcode":"10472",
+    "sg:province":"NY",
+    "sg:tags":[
+        "excavation",
+        "foundation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        420528053,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VqmxWKBJXSyYMi7ydJaEX_40.827676_-73.883197@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"84e952ce448c08e5da1ea6b76a6a9029",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":420528053,
+            "region_id":85688543,
+            "venue_id":270316219
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":420528053,
+            "region_id":85688543,
+            "venue_id":270316219
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":420528053,
+            "region_id":85688543,
+            "venue_id":270316219
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":420528053,
+            "region_id":85688543,
+            "venue_id":270316219
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":420528053,
+            "region_id":85688543,
+            "venue_id":270316219
+        }
+    ],
+    "wof:id":270316219,
+    "wof:lastmodified":1470414422,
+    "wof:name":"John Civetta Construction",
+    "wof:parent_id":420528053,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "foundation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.883197,
+    40.827676,
+    -73.883197,
+    40.827676
+],
+  "geometry": {"coordinates":[-73.883197,40.827676],"type":"Point"}
+}

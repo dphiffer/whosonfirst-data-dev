@@ -1,0 +1,111 @@
+{
+  "id": 303807619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.820272,40.846521,-73.820272,40.846521",
+    "geom:latitude":40.846521,
+    "geom:longitude":-73.820272,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1641 Stadium Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 863 0814",
+    "sg:postcode":"10465",
+    "sg:province":"NY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85865557,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gXTOW3zzScdiMqJScwibG_40.846521_-73.820272@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"49f41f45ab2db37e118fb6b2b4552dd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85865557,
+            "region_id":85688543,
+            "venue_id":303807619
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85865557,
+            "region_id":85688543,
+            "venue_id":303807619
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85865557,
+            "region_id":85688543,
+            "venue_id":303807619
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85865557,
+            "region_id":85688543,
+            "venue_id":303807619
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85865557,
+            "region_id":85688543,
+            "venue_id":303807619
+        }
+    ],
+    "wof:id":303807619,
+    "wof:lastmodified":1470414529,
+    "wof:name":"Aero Detergents Of New York In",
+    "wof:parent_id":85865557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.820272,
+    40.846521,
+    -73.820272,
+    40.846521
+],
+  "geometry": {"coordinates":[-73.820272,40.846521],"type":"Point"}
+}

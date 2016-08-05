@@ -1,0 +1,84 @@
+{
+  "id": 353508523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.8971,40.712265,-73.8971,40.712265",
+    "geom:latitude":40.712265,
+    "geom:longitude":-73.8971,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"64-00 Metropolitan Ave",
+    "sg:city":"Queens",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 866 763 5302",
+    "sg:postcode":"11379",
+    "sg:province":"NY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868659,
+        102191575,
+        85633793,
+        85977539,
+        421205767,
+        102082377,
+        85688543,
+        420529699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3owPCQqSX7JglqKM0BH0IN_40.712265_-73.897100@1303262358"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7efcd8313785a0a4e2e700f2c14ef3c4",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205767,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85868659,
+            "region_id":85688543,
+            "venue_id":353508523
+        },
+        {
+            "borough_id":421205767,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":420529699,
+            "region_id":85688543,
+            "venue_id":353508523
+        }
+    ],
+    "wof:id":353508523,
+    "wof:lastmodified":1470414680,
+    "wof:name":"Middle Village, NY",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.8971,
+    40.712265,
+    -73.8971,
+    40.712265
+],
+  "geometry": {"coordinates":[-73.89709999999999,40.712265],"type":"Point"}
+}

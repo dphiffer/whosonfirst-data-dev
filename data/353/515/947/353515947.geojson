@@ -1,0 +1,116 @@
+{
+  "id": 353515947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.885567,40.86599,-73.885567,40.86599",
+    "geom:latitude":40.86599,
+    "geom:longitude":-73.885567,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"2992 Webster Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 584 3084",
+    "sg:postcode":"10458",
+    "sg:province":"NY",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85819763,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ks0LU0e16S48dQ1Kv5MkP_40.865990_-73.885567@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1391d7b529feb6e5b0d80cfd0f9bbfa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85819763,
+            "region_id":85688543,
+            "venue_id":353515947
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85819763,
+            "region_id":85688543,
+            "venue_id":353515947
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85819763,
+            "region_id":85688543,
+            "venue_id":353515947
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85819763,
+            "region_id":85688543,
+            "venue_id":353515947
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85819763,
+            "region_id":85688543,
+            "venue_id":353515947
+        }
+    ],
+    "wof:id":353515947,
+    "wof:lastmodified":1470414681,
+    "wof:name":"San Cristoval Deli Grocery",
+    "wof:parent_id":85819763,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -73.885567,
+    40.86599,
+    -73.885567,
+    40.86599
+],
+  "geometry": {"coordinates":[-73.88556699999999,40.86599],"type":"Point"}
+}

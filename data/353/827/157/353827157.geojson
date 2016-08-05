@@ -1,0 +1,116 @@
+{
+  "id": 353827157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.826004,40.829034,-73.826004,40.829034",
+    "geom:latitude":40.829034,
+    "geom:longitude":-73.826004,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"812 Revere Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 863 3657",
+    "sg:postcode":"10465",
+    "sg:province":"NY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85852219,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3v6IxNNQZGfksGhSakBh7e_40.829034_-73.826004@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b8202054b2dab6a686b58db79d0093f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85852219,
+            "region_id":85688543,
+            "venue_id":353827157
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85852219,
+            "region_id":85688543,
+            "venue_id":353827157
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85852219,
+            "region_id":85688543,
+            "venue_id":353827157
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85852219,
+            "region_id":85688543,
+            "venue_id":353827157
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85852219,
+            "region_id":85688543,
+            "venue_id":353827157
+        }
+    ],
+    "wof:id":353827157,
+    "wof:lastmodified":1470414721,
+    "wof:name":"Roland Morlocck",
+    "wof:parent_id":85852219,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.826004,
+    40.829034,
+    -73.826004,
+    40.829034
+],
+  "geometry": {"coordinates":[-73.826004,40.829034],"type":"Point"}
+}

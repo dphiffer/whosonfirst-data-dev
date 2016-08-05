@@ -1,0 +1,78 @@
+{
+  "id": 353680589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.807098,40.716801,-73.807098,40.716801",
+    "geom:latitude":40.716801,
+    "geom:longitude":-73.807098,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"15812 82nd Dr",
+    "sg:city":"Jamaica",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 380 0750",
+    "sg:postcode":"11432",
+    "sg:province":"NY",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865567,
+        102191575,
+        85633793,
+        85977539,
+        421205767,
+        102082377,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lNtrc4ArZzPbx604s4aHO_40.716801_-73.807098@1303262362"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"318954da22b0df8c6a94adc0fffa4d11",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205767,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85865567,
+            "region_id":85688543,
+            "venue_id":353680589
+        }
+    ],
+    "wof:id":353680589,
+    "wof:lastmodified":1470414705,
+    "wof:name":"Kevin Keaveny Electric Co Inc",
+    "wof:parent_id":85865567,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -73.807098,
+    40.716801,
+    -73.807098,
+    40.716801
+],
+  "geometry": {"coordinates":[-73.807098,40.716801],"type":"Point"}
+}

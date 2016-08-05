@@ -1,0 +1,118 @@
+{
+  "id": 370398143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.852278,40.836314,-73.852278,40.836314",
+    "geom:latitude":40.836314,
+    "geom:longitude":-73.852278,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1371 Castle Hill Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 239 1474",
+    "sg:postcode":"10462",
+    "sg:province":"NY",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85840627,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AwyAdqaC7v2v9MRl06yNn_40.836314_-73.852278@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c0d79d46f7207250d9c34429502a704f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85840627,
+            "region_id":85688543,
+            "venue_id":370398143
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85840627,
+            "region_id":85688543,
+            "venue_id":370398143
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85840627,
+            "region_id":85688543,
+            "venue_id":370398143
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85840627,
+            "region_id":85688543,
+            "venue_id":370398143
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85840627,
+            "region_id":85688543,
+            "venue_id":370398143
+        }
+    ],
+    "wof:id":370398143,
+    "wof:lastmodified":1470414778,
+    "wof:name":"Castle Hill Wireless",
+    "wof:parent_id":85840627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -73.852278,
+    40.836314,
+    -73.852278,
+    40.836314
+],
+  "geometry": {"coordinates":[-73.852278,40.836314],"type":"Point"}
+}

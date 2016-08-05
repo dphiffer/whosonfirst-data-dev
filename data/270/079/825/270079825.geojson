@@ -1,0 +1,116 @@
+{
+  "id": 270079825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.896696,40.815581,-73.896696,40.815581",
+    "geom:latitude":40.815581,
+    "geom:longitude":-73.896696,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"782 Southern Blvd",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 378 8878",
+    "sg:postcode":"10455",
+    "sg:province":"NY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85869443,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7awkYgYlrzUhdRU2j8mLQ7_40.815581_-73.896696@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a1de9ebb3085fd18159d158f8158d9cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85869443,
+            "region_id":85688543,
+            "venue_id":270079825
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85869443,
+            "region_id":85688543,
+            "venue_id":270079825
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85869443,
+            "region_id":85688543,
+            "venue_id":270079825
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85869443,
+            "region_id":85688543,
+            "venue_id":270079825
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85869443,
+            "region_id":85688543,
+            "venue_id":270079825
+        }
+    ],
+    "wof:id":270079825,
+    "wof:lastmodified":1470414409,
+    "wof:name":"Ansire Auto Repr",
+    "wof:parent_id":85869443,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -73.896696,
+    40.815581,
+    -73.896696,
+    40.815581
+],
+  "geometry": {"coordinates":[-73.89669600000001,40.815581],"type":"Point"}
+}

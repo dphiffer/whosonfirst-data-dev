@@ -1,0 +1,118 @@
+{
+  "id": 336812181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.848621,40.874975,-73.848621,40.874975",
+    "geom:latitude":40.874975,
+    "geom:longitude":-73.848621,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"3351 Seymour Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 655 4850",
+    "sg:postcode":"10469",
+    "sg:province":"NY",
+    "sg:tags":[
+        "miscellaneous",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85804885,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HRoQZW8wJb4WAX8luv2eC_40.874975_-73.848621@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"85294b100c4e07c24b73dbe4ffc004ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85804885,
+            "region_id":85688543,
+            "venue_id":336812181
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85804885,
+            "region_id":85688543,
+            "venue_id":336812181
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85804885,
+            "region_id":85688543,
+            "venue_id":336812181
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85804885,
+            "region_id":85688543,
+            "venue_id":336812181
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85804885,
+            "region_id":85688543,
+            "venue_id":336812181
+        }
+    ],
+    "wof:id":336812181,
+    "wof:lastmodified":1470414612,
+    "wof:name":"Kitty's Soaps",
+    "wof:parent_id":85804885,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "miscellaneous",
+        "store"
+    ]
+},
+  "bbox": [
+    -73.848621,
+    40.874975,
+    -73.848621,
+    40.874975
+],
+  "geometry": {"coordinates":[-73.84862099999999,40.874975],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 253553281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.887721,40.855456,-73.887721,40.855456",
+    "geom:latitude":40.855456,
+    "geom:longitude":-73.887721,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"2371 Arthur Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 364 6199",
+    "sg:postcode":"10458",
+    "sg:province":"NY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85865533,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GrHrUJis9mOiaeS5qYlvM_40.855456_-73.887721@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"163e58c1e5517b7a7ddc53398b57c430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85865533,
+            "region_id":85688543,
+            "venue_id":253553281
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85865533,
+            "region_id":85688543,
+            "venue_id":253553281
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85865533,
+            "region_id":85688543,
+            "venue_id":253553281
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85865533,
+            "region_id":85688543,
+            "venue_id":253553281
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85865533,
+            "region_id":85688543,
+            "venue_id":253553281
+        }
+    ],
+    "wof:id":253553281,
+    "wof:lastmodified":1470414355,
+    "wof:name":"Belmont Medical Associate Inc",
+    "wof:parent_id":85865533,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.887721,
+    40.855456,
+    -73.887721,
+    40.855456
+],
+  "geometry": {"coordinates":[-73.887721,40.855456],"type":"Point"}
+}

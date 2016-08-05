@@ -1,0 +1,118 @@
+{
+  "id": 371130949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.910792,40.894601,-73.910792,40.894601",
+    "geom:latitude":40.894601,
+    "geom:longitude":-73.910792,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"620 W 247th St",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 239 3657",
+    "sg:postcode":"10471",
+    "sg:province":"NY",
+    "sg:tags":[
+        "clinic",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85844897,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jcQYkxq87p7ACcUaX1Mh9_40.894601_-73.910792@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b4f3ec078ed79110860d7401ea3babf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85844897,
+            "region_id":85688543,
+            "venue_id":371130949
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85844897,
+            "region_id":85688543,
+            "venue_id":371130949
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85844897,
+            "region_id":85688543,
+            "venue_id":371130949
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85844897,
+            "region_id":85688543,
+            "venue_id":371130949
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85844897,
+            "region_id":85688543,
+            "venue_id":371130949
+        }
+    ],
+    "wof:id":371130949,
+    "wof:lastmodified":1470414828,
+    "wof:name":"Joseph K Youngerman MD",
+    "wof:parent_id":85844897,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.910792,
+    40.894601,
+    -73.910792,
+    40.894601
+],
+  "geometry": {"coordinates":[-73.910792,40.894601],"type":"Point"}
+}

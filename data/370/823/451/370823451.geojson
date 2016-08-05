@@ -1,0 +1,116 @@
+{
+  "id": 370823451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.884258,40.835978,-73.884258,40.835978",
+    "geom:latitude":40.835978,
+    "geom:longitude":-73.884258,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1670 Longfellow Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 617 1111",
+    "sg:postcode":"10460",
+    "sg:province":"NY",
+    "sg:tags":[
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85869201,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GGzxJQCeoUqtFJ8p9ZRp6_40.835978_-73.884258@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3b906173bfacc101aca6271c864974b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85869201,
+            "region_id":85688543,
+            "venue_id":370823451
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85869201,
+            "region_id":85688543,
+            "venue_id":370823451
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85869201,
+            "region_id":85688543,
+            "venue_id":370823451
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85869201,
+            "region_id":85688543,
+            "venue_id":370823451
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85869201,
+            "region_id":85688543,
+            "venue_id":370823451
+        }
+    ],
+    "wof:id":370823451,
+    "wof:lastmodified":1470414810,
+    "wof:name":"South Car Svc",
+    "wof:parent_id":85869201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -73.884258,
+    40.835978,
+    -73.884258,
+    40.835978
+],
+  "geometry": {"coordinates":[-73.884258,40.835978],"type":"Point"}
+}

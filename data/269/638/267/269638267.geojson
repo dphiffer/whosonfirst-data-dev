@@ -1,0 +1,116 @@
+{
+  "id": 269638267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.838538,40.817457,-73.838538,40.817457",
+    "geom:latitude":40.817457,
+    "geom:longitude":-73.838538,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"855 Brush Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 430 9700",
+    "sg:postcode":"10465",
+    "sg:province":"NY",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85852219,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XWVSxIGDt5t10gyTw0jsK_40.817457_-73.838538@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"688539971da08666cc583f5b921b4d05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85852219,
+            "region_id":85688543,
+            "venue_id":269638267
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85852219,
+            "region_id":85688543,
+            "venue_id":269638267
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85852219,
+            "region_id":85688543,
+            "venue_id":269638267
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85852219,
+            "region_id":85688543,
+            "venue_id":269638267
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85852219,
+            "region_id":85688543,
+            "venue_id":269638267
+        }
+    ],
+    "wof:id":269638267,
+    "wof:lastmodified":1470414378,
+    "wof:name":"Seniorcare EMS Inc",
+    "wof:parent_id":85852219,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -73.838538,
+    40.817457,
+    -73.838538,
+    40.817457
+],
+  "geometry": {"coordinates":[-73.838538,40.817457],"type":"Point"}
+}

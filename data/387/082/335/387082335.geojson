@@ -1,0 +1,111 @@
+{
+  "id": 387082335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.883733,40.836121,-73.883733,40.836121",
+    "geom:latitude":40.836121,
+    "geom:longitude":-73.883733,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1007 E 174th St",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 860 0909",
+    "sg:postcode":"10460",
+    "sg:province":"NY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85869201,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YhZQxlPJQFUDgJUiRpLu6_40.836121_-73.883733@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"77f6b9348d4a2098bed0eaa871b717f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85869201,
+            "region_id":85688543,
+            "venue_id":387082335
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85869201,
+            "region_id":85688543,
+            "venue_id":387082335
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85869201,
+            "region_id":85688543,
+            "venue_id":387082335
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85869201,
+            "region_id":85688543,
+            "venue_id":387082335
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85869201,
+            "region_id":85688543,
+            "venue_id":387082335
+        }
+    ],
+    "wof:id":387082335,
+    "wof:lastmodified":1470414845,
+    "wof:name":"1007-09 Tenants Assn",
+    "wof:parent_id":85869201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.883733,
+    40.836121,
+    -73.883733,
+    40.836121
+],
+  "geometry": {"coordinates":[-73.88373300000001,40.836121],"type":"Point"}
+}

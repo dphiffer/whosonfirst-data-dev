@@ -1,0 +1,116 @@
+{
+  "id": 370286439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.906842,40.876899,-73.906842,40.876899",
+    "geom:latitude":40.876899,
+    "geom:longitude":-73.906842,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"219 W 230th St",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 884 7300",
+    "sg:postcode":"10463",
+    "sg:province":"NY",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85828377,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BA17cT6dFwIdWj3Dchgzn_40.876899_-73.906842@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0d999f44e958e53cd167fda25d8c37f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85828377,
+            "region_id":85688543,
+            "venue_id":370286439
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85828377,
+            "region_id":85688543,
+            "venue_id":370286439
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85828377,
+            "region_id":85688543,
+            "venue_id":370286439
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85828377,
+            "region_id":85688543,
+            "venue_id":370286439
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85828377,
+            "region_id":85688543,
+            "venue_id":370286439
+        }
+    ],
+    "wof:id":370286439,
+    "wof:lastmodified":1470414770,
+    "wof:name":"Deli-Dairy",
+    "wof:parent_id":85828377,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -73.906842,
+    40.876899,
+    -73.906842,
+    40.876899
+],
+  "geometry": {"coordinates":[-73.906842,40.876899],"type":"Point"}
+}

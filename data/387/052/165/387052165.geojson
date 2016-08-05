@@ -1,0 +1,118 @@
+{
+  "id": 387052165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.891993,40.824476,-73.891993,40.824476",
+    "geom:latitude":40.824476,
+    "geom:longitude":-73.891993,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1007 Southern Blvd",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 328 2744",
+    "sg:postcode":"10459",
+    "sg:province":"NY",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85869443,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sYOIfoG1Lvy0pX6SrVzhw_40.824476_-73.891993@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"30b014613965601813b74fa7f27c378a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85869443,
+            "region_id":85688543,
+            "venue_id":387052165
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85869443,
+            "region_id":85688543,
+            "venue_id":387052165
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85869443,
+            "region_id":85688543,
+            "venue_id":387052165
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85869443,
+            "region_id":85688543,
+            "venue_id":387052165
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85869443,
+            "region_id":85688543,
+            "venue_id":387052165
+        }
+    ],
+    "wof:id":387052165,
+    "wof:lastmodified":1470414843,
+    "wof:name":"Statewide Cellular",
+    "wof:parent_id":85869443,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -73.891993,
+    40.824476,
+    -73.891993,
+    40.824476
+],
+  "geometry": {"coordinates":[-73.891993,40.824476],"type":"Point"}
+}

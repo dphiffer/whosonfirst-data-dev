@@ -1,0 +1,123 @@
+{
+  "id": 270024155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-74.244181,40.501495,-74.244181,40.501495",
+    "geom:latitude":40.501495,
+    "geom:longitude":-74.244181,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"622 Main St",
+    "sg:city":"Staten Island",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 761 2443",
+    "sg:postcode":"10307",
+    "sg:province":"NY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85869735,
+        102082377,
+        102081863,
+        102083063,
+        102081779,
+        85852385,
+        421205775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4INZLSIX6JrC6kSdCxnoWw_40.501495_-74.244181@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0b963804ff87cdd7f47484594d11ed0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85869735,
+            "region_id":85688543,
+            "venue_id":270024155
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85869735,
+            "region_id":85688543,
+            "venue_id":270024155
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85869735,
+            "region_id":85688543,
+            "venue_id":270024155
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85869735,
+            "region_id":85688543,
+            "venue_id":270024155
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85869735,
+            "region_id":85688543,
+            "venue_id":270024155
+        },
+        {
+            "borough_id":421205775,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85852385,
+            "region_id":85688543,
+            "venue_id":270024155
+        }
+    ],
+    "wof:id":270024155,
+    "wof:lastmodified":1470414404,
+    "wof:name":"Hh Sales",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.244181,
+    40.501495,
+    -74.244181,
+    40.501495
+],
+  "geometry": {"coordinates":[-74.244181,40.501495],"type":"Point"}
+}

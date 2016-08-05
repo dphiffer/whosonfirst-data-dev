@@ -1,0 +1,116 @@
+{
+  "id": 370376621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.824249,40.861492,-73.824249,40.861492",
+    "geom:latitude":40.861492,
+    "geom:longitude":-73.824249,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"2 Hunter Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 320 4074",
+    "sg:postcode":"10475",
+    "sg:province":"NY",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85825625,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iEwIVa5AaTJexRYjJzlg9_40.861492_-73.824249@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e6325a33fee18f553ebf8a958e6fa1cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85825625,
+            "region_id":85688543,
+            "venue_id":370376621
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85825625,
+            "region_id":85688543,
+            "venue_id":370376621
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85825625,
+            "region_id":85688543,
+            "venue_id":370376621
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85825625,
+            "region_id":85688543,
+            "venue_id":370376621
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85825625,
+            "region_id":85688543,
+            "venue_id":370376621
+        }
+    ],
+    "wof:id":370376621,
+    "wof:lastmodified":1470414776,
+    "wof:name":"Clement Hedley",
+    "wof:parent_id":85825625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -73.824249,
+    40.861492,
+    -73.824249,
+    40.861492
+],
+  "geometry": {"coordinates":[-73.82424899999999,40.861492],"type":"Point"}
+}

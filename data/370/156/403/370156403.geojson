@@ -1,0 +1,116 @@
+{
+  "id": 370156403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.857475,40.86107,-73.857475,40.86107",
+    "geom:latitude":40.86107,
+    "geom:longitude":-73.857475,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"26 Willow St",
+    "sg:city":"Selden",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 631 696 2888",
+    "sg:postcode":"11784",
+    "sg:province":"NY",
+    "sg:tags":[
+        "hair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        420528059,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FqPnmASOV4SfH1IN4NSo6_40.861070_-73.857475@1303262380"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2f5ae04da679e0f271a62e3305dc544d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":420528059,
+            "region_id":85688543,
+            "venue_id":370156403
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":420528059,
+            "region_id":85688543,
+            "venue_id":370156403
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":420528059,
+            "region_id":85688543,
+            "venue_id":370156403
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":420528059,
+            "region_id":85688543,
+            "venue_id":370156403
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":420528059,
+            "region_id":85688543,
+            "venue_id":370156403
+        }
+    ],
+    "wof:id":370156403,
+    "wof:lastmodified":1470414762,
+    "wof:name":"Best Cut Landscaping",
+    "wof:parent_id":420528059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair"
+    ]
+},
+  "bbox": [
+    -73.857475,
+    40.86107,
+    -73.857475,
+    40.86107
+],
+  "geometry": {"coordinates":[-73.85747499999999,40.86107],"type":"Point"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 387271173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.915873,40.833619,-73.915873,40.833619",
+    "geom:latitude":40.833619,
+    "geom:longitude":-73.915873,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_test":1,
+    "sg:address":"1156 Sherman Ave",
+    "sg:city":"Bronx",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 718 537 1700",
+    "sg:postcode":"10456",
+    "sg:province":"NY",
+    "sg:tags":[
+        "clothing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        85892793,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aNrOMGg2tnA6eT8dhVr48_40.833619_-73.915873@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e6115e85f363ce79036f015c9117b382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85892793,
+            "region_id":85688543,
+            "venue_id":387271173
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85892793,
+            "region_id":85688543,
+            "venue_id":387271173
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85892793,
+            "region_id":85688543,
+            "venue_id":387271173
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85892793,
+            "region_id":85688543,
+            "venue_id":387271173
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85892793,
+            "region_id":85688543,
+            "venue_id":387271173
+        }
+    ],
+    "wof:id":387271173,
+    "wof:lastmodified":1470414855,
+    "wof:name":"Doff Designing",
+    "wof:parent_id":85892793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing"
+    ]
+},
+  "bbox": [
+    -73.915873,
+    40.833619,
+    -73.915873,
+    40.833619
+],
+  "geometry": {"coordinates":[-73.915873,40.833619],"type":"Point"}
+}
