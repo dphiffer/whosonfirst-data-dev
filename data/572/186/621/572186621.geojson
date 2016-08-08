@@ -72,8 +72,10 @@
     "wof:supersedes":[],
     "wof:tags":[
         "music",
-        "dance"
-    ]
+        "dance",
+        "foo"
+    ],
+    "wof:testtest": "bar"
 },
   "bbox": [
     -73.956919,
