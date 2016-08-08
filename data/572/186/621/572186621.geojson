@@ -2,15 +2,19 @@
   "id": 572186621,
   "type": "Feature",
   "properties": {
-    "addr:twitter": "https://twitter.com/subtrak",
+    "addr:twitter":"https://twitter.com/subtrak",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0,
     "geom:bbox":"-73.956919,40.713731,-73.956919,40.713731",
     "geom:latitude":40.713731,
     "geom:longitude":-73.956919,
     "iso:country":"US",
+    "mz:categories":[
+        "other:industry=music_publishers"
+    ],
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "mz:is_test":1,
     "sg:address":"19 Hope Street",
     "sg:city":"Brooklyn",
