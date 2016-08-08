@@ -27,7 +27,7 @@
     ],
     "sg:owner":"simplegeo",
     "sg:phone":"+1 917 774 6641",
-    "sg:postcode":"11211",
+    "sg:postcode":11211,
     "sg:province":"NY",
     "sg:tags":[
         "music",
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":572186621,
-    "wof:lastmodified":1470415396,
+    "wof:lastmodified":1470685145,
     "wof:name":"Subtrak Records",
     "wof:parent_id":85892951,
     "wof:placetype":"venue",
