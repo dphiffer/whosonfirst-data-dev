@@ -2,6 +2,7 @@
   "id": 572186621,
   "type": "Feature",
   "properties": {
+    "addr:twitter": "https://twitter.com/subtrak",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
