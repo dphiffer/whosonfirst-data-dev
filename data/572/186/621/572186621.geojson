@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":572186621,
-    "wof:lastmodified":1470685145,
+    "wof:lastmodified":1470689377,
     "wof:name":"Subtrak Records",
     "wof:parent_id":85892951,
     "wof:placetype":"venue",
@@ -75,7 +75,8 @@
         "dance",
         "foo"
     ],
-    "wof:testtest": "bar"
+    "wof:testfoofoo":"foofoo",
+    "wof:testtest":"bar"
 },
   "bbox": [
     -73.956919,
