@@ -10,16 +10,17 @@
     "addr:website":"http://www.noguchi.org/",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0,
     "geom:bbox":"-73.93817,40.766756,-73.93817,40.766756",
     "geom:latitude":40.766756,
     "geom:longitude":-73.93817,
     "iso:country":"US",
+    "mz:categories":[
+        "do_and_see:fun=art_museum"
+    ],
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_test":1,
-    "sg:address":"9-01 33rd Rd",
-    "sg:city":"Long Island City",
     "sg:classifiers":[
         {
             "category":"Museum",
