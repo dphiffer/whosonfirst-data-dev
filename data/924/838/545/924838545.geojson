@@ -4,7 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0,
     "geom:bbox":"-73.9816,40.7358,-73.9816,40.7358",
     "geom:latitude":40.7358,
     "geom:longitude":-73.9816,
@@ -22,7 +22,7 @@
         85688543
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":[],
     "wof:country":"US",
     "wof:created":1471984688,
     "wof:geomhash":"0db1ea1490ae04c03b720f31985ce132",
@@ -39,7 +39,7 @@
         }
     ],
     "wof:id":924838545,
-    "wof:lastmodified":1471984688,
+    "wof:lastmodified":1471984867,
     "wof:name":"Testing concordances again",
     "wof:parent_id":85865705,
     "wof:placetype":"venue",
