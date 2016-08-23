@@ -4,7 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0,
     "geom:bbox":"-73.995323,40.743772,-73.995323,40.743772",
     "geom:latitude":40.743772,
     "geom:longitude":-73.995323,
@@ -50,7 +50,7 @@
         }
     ],
     "wof:id":940595163,
-    "wof:lastmodified":1471987382,
+    "wof:lastmodified":1471987457,
     "wof:name":"Concordances test IV",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
