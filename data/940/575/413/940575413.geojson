@@ -4,7 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0,
     "geom:bbox":"-73.99292,40.738829,-73.99292,40.738829",
     "geom:latitude":40.738829,
     "geom:longitude":-73.99292,
@@ -23,7 +23,7 @@
         85892965
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":[],
     "wof:country":"",
     "wof:created":1471986397,
     "wof:geomhash":"03b6e37f7f7fddf09af410a611386e4c",
@@ -50,7 +50,7 @@
         }
     ],
     "wof:id":940575413,
-    "wof:lastmodified":1471986397,
+    "wof:lastmodified":1471986426,
     "wof:name":"Testing concordances part three",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
