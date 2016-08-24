@@ -13,14 +13,14 @@
     "mz:is_current":1,
     "src:geom":"mapzen",
     "wof:belongsto":[
-        85892965,
+        85892937,
         102191575,
         85633793,
         85977539,
         421205771,
         102081863,
         85688543,
-        85892937
+        85892965
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -34,7 +34,7 @@
             "country_id":85633793,
             "county_id":102081863,
             "locality_id":85977539,
-            "neighbourhood_id":85892965,
+            "neighbourhood_id":85892937,
             "region_id":85688543,
             "venue_id":940575413
         },
@@ -44,13 +44,13 @@
             "country_id":85633793,
             "county_id":102081863,
             "locality_id":85977539,
-            "neighbourhood_id":85892937,
+            "neighbourhood_id":85892965,
             "region_id":85688543,
             "venue_id":940575413
         }
     ],
     "wof:id":940575413,
-    "wof:lastmodified":1471988073,
+    "wof:lastmodified":1472069428,
     "wof:name":"Testing concordances part three",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
