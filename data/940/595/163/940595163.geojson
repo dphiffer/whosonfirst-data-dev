@@ -50,12 +50,14 @@
         }
     ],
     "wof:id":940595163,
-    "wof:lastmodified":1472069408,
+    "wof:lastmodified":1472075713,
     "wof:name":"Concordances test IV",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "940575413"
+    ],
     "wof:tags":[]
 },
   "bbox": [

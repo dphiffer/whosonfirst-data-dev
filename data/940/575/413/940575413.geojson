@@ -50,11 +50,13 @@
         }
     ],
     "wof:id":940575413,
-    "wof:lastmodified":1472069428,
+    "wof:lastmodified":1472075711,
     "wof:name":"Testing concordances part three",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "940595163"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
