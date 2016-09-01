@@ -1,0 +1,108 @@
+{
+  "id": 85809781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000217,
+    "geom:bbox":"-74.1302490234,40.6056119932,-74.1017008889,40.6188351367",
+    "geom:latitude":40.612903,
+    "geom:longitude":-74.118238,
+    "gn:elevation":52,
+    "gn:id":"",
+    "iso:country":"US",
+    "lbl:latitude":40.61716,
+    "lbl:longitude":-74.121539,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_fcode":"PPL",
+    "misc:gn_local":5128581,
+    "misc:gn_nam_loc":"New York, New York, US",
+    "misc:gn_namadm1":"NY",
+    "misc:gn_name":"Castleton Corners",
+    "misc:local_max":59970,
+    "misc:local_sum":2486608,
+    "misc:localhoods":427,
+    "misc:name":"Castleton Corners",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New York",
+    "misc:name_adm2":"Staten Island",
+    "misc:name_local":"New York",
+    "misc:photo_max":426,
+    "misc:photo_sum":586,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":15,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347591,
+    "misc:woe_adm2":12589354,
+    "misc:woe_lau":0,
+    "misc:woe_local":2459115,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":40.613952,
+    "mps:longitude":-74.118238,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:is_test":1,
+    "mz:max_zoom":18,
+    "mz:min_zoom":14,
+    "mz:tier_locality":7,
+    "name:eng_x_preferred":[
+        "Castleton Corners"
+    ],
+    "name:eng_x_variant":[
+        "Castleton Cors"
+    ],
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85977539,
+        421205775,
+        102081779,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"095cc9d8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":5111744,
+        "gp:id":2376165,
+        "qs:id":1138367
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2792c831d3212b92661c8f144250770b",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205775,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85809781,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":85809781,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1472751211,
+    "wof:name":"Castleton Corners",
+    "wof:parent_id":421205775,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.13024902341797,
+    40.6056119932252,
+    -74.10170088893153,
+    40.61883513673442
+],
+  "geometry": {"coordinates":[[[-74.10552978517507,40.61883513673442],[-74.10498865011067,40.61812223469354],[-74.10278320310005,40.61812223162124],[-74.10170095300836,40.61812223677349],[-74.10170091365265,40.6181221772252],[-74.10222844306924,40.61603735797534],[-74.10170088893153,40.61395237612543],[-74.10278320311605,40.61252663637489],[-74.10552978517507,40.61373266668251],[-74.10827636717494,40.61252663635295],[-74.10935868139808,40.61395237612543],[-74.11376953121555,40.61395237612543],[-74.11376953121555,40.60978237980002],[-74.11376953122488,40.60978231477506],[-74.11926269529988,40.60978231477506],[-74.11926269529988,40.60561205830007],[-74.11926269529988,40.6056119932252],[-74.1247558593833,40.6056119932252],[-74.1291665857795,40.6056119932252],[-74.12916663518408,40.60561205830007],[-74.13024902339993,40.60561205830007],[-74.13024902340723,40.60703776212414],[-74.13024902341797,40.60978231477506],[-74.1302490234097,40.60978237980002],[-74.13024902341556,40.61395237612543],[-74.13024902339993,40.61395244120003],[-74.12475585938427,40.61395244120003],[-74.12475585938188,40.6181221772252],[-74.12475585939023,40.61812224230009],[-74.11926269530005,40.61812224230009],[-74.11376953119992,40.61812224230009],[-74.10881749649505,40.61812224230009],[-74.10827636719989,40.61883513672358],[-74.10690307619979,40.61823206982601],[-74.10552978517507,40.61883513673442]]],"type":"Polygon"}
+}

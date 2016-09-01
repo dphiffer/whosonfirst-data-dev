@@ -1,0 +1,63 @@
+{
+  "id": 420782915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.9967037355,40.6809244294,-73.9967037355,40.6809244294",
+    "geom:latitude":40.680924,
+    "geom:longitude":-73.996704,
+    "iso:country":"",
+    "lbl:latitude":40.680924,
+    "lbl:longitude":-73.996704,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:is_test":1,
+    "mz:max_zoom":18,
+    "mz:min_zoom":14,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85977539,
+        421205765,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"",
+    "wof:created":1458871860,
+    "wof:geomhash":"70750ce2be5c29fffc444eb5fbd633ac",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205765,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":420782915,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":420782915,
+    "wof:lastmodified":1472751137,
+    "wof:name":"Carroll Gardens",
+    "wof:parent_id":421205765,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99670373552993,
+    40.68092442938467,
+    -73.99670373552993,
+    40.68092442938467
+],
+  "geometry": {"coordinates":[-73.99670373552993,40.68092442938467],"type":"Point"}
+}

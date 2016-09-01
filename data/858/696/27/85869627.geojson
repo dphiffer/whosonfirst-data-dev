@@ -1,0 +1,216 @@
+{
+  "id": 85869627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000169,
+    "geom:bbox":"-73.892866,40.785743,-73.870992,40.798315",
+    "geom:latitude":40.791012,
+    "geom:longitude":-73.882653,
+    "gn:id":"",
+    "iso:country":"US",
+    "lbl:latitude":40.790125,
+    "lbl:longitude":-73.882657,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_id":0,
+    "misc:gn_local":5128581,
+    "misc:gn_nam_loc":"New York, New York, US",
+    "misc:gn_namadm1":"NY",
+    "misc:local_max":59970,
+    "misc:local_sum":2486608,
+    "misc:localhoods":427,
+    "misc:name":"Rikers Island",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New York",
+    "misc:name_adm2":"Bronx",
+    "misc:name_local":"New York",
+    "misc:photo_max":114,
+    "misc:photo_sum":261,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":12,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347591,
+    "misc:woe_adm2":12589314,
+    "misc:woe_lau":0,
+    "misc:woe_local":2459115,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":40.790744,
+    "mps:longitude":-73.882653,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":1,
+    "mz:is_official":0,
+    "mz:is_test":1,
+    "mz:max_zoom":18,
+    "mz:min_zoom":16,
+    "mz:tier_locality":7,
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u064a\u0643\u0631\u0632 \u0622\u064a\u0644\u0627\u0646\u062f"
+    ],
+    "name:cat_x_preferred":[
+        "Rikers Island"
+    ],
+    "name:dan_x_preferred":[
+        "Rikers Island"
+    ],
+    "name:deu_x_preferred":[
+        "Rikers Island"
+    ],
+    "name:eng_x_preferred":[
+        "Rikers Island"
+    ],
+    "name:eng_x_variant":[
+        "Rikers Is"
+    ],
+    "name:eus_x_preferred":[
+        "Rikers Island"
+    ],
+    "name:fra_x_preferred":[
+        "Rikers Island"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d9\u05d9\u05e7\u05e8\u05d6 \u05d0\u05d9\u05d9\u05dc\u05e0\u05d3"
+    ],
+    "name:ita_x_preferred":[
+        "Rikers Island"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30a4\u30ab\u30fc\u30ba\u5cf6"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\uc774\ucee4\uc2a4 \uc12c"
+    ],
+    "name:nld_x_preferred":[
+        "Rikers Island"
+    ],
+    "name:nor_x_preferred":[
+        "Rikers Island"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0439\u043a\u0435\u0440\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Rikers"
+    ],
+    "name:swe_x_preferred":[
+        "Rikers Island"
+    ],
+    "src:geom":"zetashapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wk:wordcount":5270,
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28751464,
+        "qs:id":1091422,
+        "wd:id":"Q120119"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"91f158c56c126378ce9aa5c0d81b1bef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85869627,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":85869627,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":85869627,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":85869627,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85869627,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":85869627,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1472751250,
+    "wof:name":"Rikers Island",
+    "wof:parent_id":85977539,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[],
+    "zs:blockids":[
+        360050001001008,
+        360050001001018,
+        360050001001022,
+        360050001001020,
+        360050001001013,
+        360050001001005,
+        360050001001004,
+        360050001001009,
+        360050001001015,
+        360050001001014,
+        360050001001006,
+        360050001001021,
+        360050001001024,
+        360050001001001,
+        360050001001016,
+        360050001001023,
+        360050001001003,
+        360050001001000,
+        360050001001012,
+        360050001001007,
+        360050001001010,
+        360050001001017,
+        360050001001019,
+        360050001001011,
+        360050001001002
+    ],
+    "zs:housing10":0,
+    "zs:pop10":11091
+},
+  "bbox": [
+    -73.892866,
+    40.785743,
+    -73.870992,
+    40.798315
+],
+  "geometry": {"coordinates":[[[-73.888434,40.798052],[-73.88789800000001,40.798315],[-73.88385,40.795433],[-73.87864500000001,40.794407],[-73.875512,40.793002],[-73.874253,40.792317],[-73.871072,40.788891],[-73.871021,40.788833],[-73.8711,40.788694],[-73.87125399999999,40.787593],[-73.870992,40.786979],[-73.87217699999999,40.786697],[-73.873688,40.78616],[-73.878964,40.785743],[-73.881137,40.786066],[-73.882909,40.78633],[-73.884867,40.786621],[-73.88713,40.786969],[-73.88991799999999,40.787398],[-73.890586,40.790145],[-73.892205,40.79038],[-73.892866,40.790567],[-73.89039,40.797957],[-73.888998,40.797776],[-73.888434,40.798052]]],"type":"Polygon"}
+}

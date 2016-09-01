@@ -1,0 +1,106 @@
+{
+  "id": 85820425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000151,
+    "geom:bbox":"-74.1027832031,40.6056119932,-74.0863037109,40.6204985567",
+    "geom:latitude":40.613007,
+    "geom:longitude":-74.095299,
+    "gn:elevation":20,
+    "iso:country":"US",
+    "lbl:latitude":40.61619,
+    "lbl:longitude":-74.097205,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_fcode":"PPL",
+    "misc:gn_local":5128581,
+    "misc:gn_nam_loc":"New York, New York, US",
+    "misc:gn_namadm1":"NY",
+    "misc:gn_name":"Fox Hills",
+    "misc:local_max":59970,
+    "misc:local_sum":2486608,
+    "misc:localhoods":427,
+    "misc:name":"Fox Hills",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New York",
+    "misc:name_adm2":"Staten Island",
+    "misc:name_local":"New York",
+    "misc:photo_max":76,
+    "misc:photo_sum":169,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":12,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347591,
+    "misc:woe_adm2":12589354,
+    "misc:woe_lau":0,
+    "misc:woe_local":2459115,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":40.61333,
+    "mps:longitude":-74.095297,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:is_test":1,
+    "mz:max_zoom":18,
+    "mz:min_zoom":14,
+    "mz:tier_locality":7,
+    "name:eng_x_preferred":[
+        "Fox Hills"
+    ],
+    "name:eng_x_variant":[
+        "Fox Hls"
+    ],
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85977539,
+        421205775,
+        102081779,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5117814,
+        "gp:id":2406594,
+        "qs:id":1170321
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ab81e2477304ea7bc26b17faf894ffad",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205775,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":85820425,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":85820425,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1472751218,
+    "wof:name":"Grymes Hill",
+    "wof:parent_id":421205775,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.10278320311605,
+    40.6056119932252,
+    -74.08630371090004,
+    40.62049855666154
+],
+  "geometry": {"coordinates":[[[-74.09124211491917,40.61603735797534],[-74.09071457573492,40.61395243522348],[-74.08630371090004,40.61395244120003],[-74.08630371091442,40.61252663637489],[-74.08630371091451,40.61120810759354],[-74.08630371090004,40.60978237980002],[-74.09179687271737,40.60978236994222],[-74.09179687499989,40.60561205830007],[-74.09287927150308,40.60561205830007],[-74.09287928797079,40.6056119932252],[-74.09729003907506,40.6056119932252],[-74.0972900390843,40.60561205830007],[-74.09729003908538,40.60835659893732],[-74.0983724026492,40.60978231477506],[-74.10275612064208,40.60978231477506],[-74.10275620291617,40.60978237980002],[-74.10278320310005,40.60978237980002],[-74.10278320310928,40.60980371926355],[-74.10278320311605,40.61252663637489],[-74.10278320310005,40.61395244120003],[-74.10278320310005,40.61812223162124],[-74.10170095300836,40.61812223677349],[-74.0983722791519,40.61812224230009],[-74.09758106529063,40.61916461120026],[-74.09729003909993,40.61916461120026],[-74.09454345702491,40.61916461120026],[-74.0925183848571,40.62049855666154],[-74.09179687499989,40.61954801790939],[-74.0907145855025,40.6181221772252],[-74.09124211491917,40.61603735797534]]],"type":"Polygon"}
+}
