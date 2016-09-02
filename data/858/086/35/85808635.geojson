@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000505,
+    "geom:area_square_m":4734250.720393,
     "geom:bbox":"-73.941149,40.67922,-73.901241,40.709471",
     "geom:latitude":40.695622,
     "geom:longitude":-73.918499,
@@ -38,7 +39,9 @@
     "misc:woe_ver":"7.10.0",
     "mps:latitude":40.698518,
     "mps:longitude":-73.920465,
+    "mz:categories":[],
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -78,7 +81,8 @@
         "nyt:id":"N17494506030515734961",
         "qs:id":11357,
         "wd:id":"Q2288728",
-        "wk:page":"Bushwick, Brooklyn"
+        "wk:page":"Bushwick, Brooklyn",
+        "woe:id":"2372523"
     },
     "wof:country":"US",
     "wof:geomhash":"9eee45e6b9514b39460bad4055953fd4",
@@ -97,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1472751210,
+    "wof:lastmodified":1472774867,
     "wof:name":"Bushwick",
     "wof:parent_id":421205765,
     "wof:placetype":"neighbourhood",
