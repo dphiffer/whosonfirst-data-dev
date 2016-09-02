@@ -1,0 +1,114 @@
+{
+  "id": 85869221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:bbox":"-122.438112,37.757491,-122.433591,37.759356",
+    "geom:latitude":37.758424,
+    "geom:longitude":-122.435851,
+    "gn:id":"",
+    "iso:country":"US",
+    "lbl:latitude":37.76418,
+    "lbl:longitude":-122.43641,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_id":0,
+    "misc:gn_local":5391959,
+    "misc:gn_nam_loc":"San Francisco",
+    "misc:gn_namadm1":"CA",
+    "misc:local_max":60110,
+    "misc:local_sum":1593503,
+    "misc:localhoods":148,
+    "misc:name":"Eureka Valley",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"California",
+    "misc:name_adm2":"San Francisco",
+    "misc:name_local":"San Francisco",
+    "misc:photo_max":326,
+    "misc:photo_sum":1401,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":31,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347563,
+    "misc:woe_adm2":12587707,
+    "misc:woe_lau":0,
+    "misc:woe_local":2487956,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":37.758425,
+    "mps:longitude":-122.435853,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:is_test":1,
+    "mz:max_zoom":16,
+    "mz:min_zoom":14,
+    "mz:tier_locality":7,
+    "name:eng_x_preferred":[
+        "Eureka Valley"
+    ],
+    "name:eng_x_variant":[
+        "Eureka Vly"
+    ],
+    "src:geom":"zetashapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapzen",
+    "wk:wordcount":29,
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922583,
+        102087579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28751234,
+        "qs:id":375445,
+        "wd:id":"Q5411268"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2ab98e5b8bd262b66a5ce7fccdf57ca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":85869221,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":85869221,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1472842928,
+    "wof:name":"Eureka Valley",
+    "wof:parent_id":85922583,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[],
+    "zs:blockids":[
+        60750206003002,
+        60750205002004,
+        60750205002005,
+        60750205003000
+    ],
+    "zs:housing10":430,
+    "zs:pop10":769
+},
+  "bbox": [
+    -122.438112,
+    37.757491,
+    -122.433591,
+    37.759356
+],
+  "geometry": {"coordinates":[[[-122.436886,37.757557],[-122.43795900000001,37.757491],[-122.438112,37.759093],[-122.437039,37.759157],[-122.435957,37.759223],[-122.434854,37.759289],[-122.433745,37.759356],[-122.43359100000001,37.757754],[-122.434698,37.757687],[-122.43580799999999,37.757623],[-122.436886,37.757557]]],"type":"Polygon"}
+}

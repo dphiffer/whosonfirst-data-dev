@@ -1,0 +1,119 @@
+{
+  "id": 85882171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:bbox":"-122.4524,37.762843,-122.447635,37.768729",
+    "geom:latitude":37.765382,
+    "geom:longitude":-122.44979,
+    "iso:country":"US",
+    "lbl:latitude":37.764372,
+    "lbl:longitude":-122.450113,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_fcode":"PPLX",
+    "misc:gn_local":5391959,
+    "misc:gn_nam_loc":"San Francisco",
+    "misc:gn_namadm1":"CA",
+    "misc:gn_name":"Cole Valley",
+    "misc:local_max":60110,
+    "misc:local_sum":1593503,
+    "misc:localhoods":148,
+    "misc:name":"Cole Valley",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"California",
+    "misc:name_adm2":"San Francisco",
+    "misc:name_local":"San Francisco",
+    "misc:photo_max":423,
+    "misc:photo_sum":2883,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":61,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347563,
+    "misc:woe_adm2":12587707,
+    "misc:woe_lau":0,
+    "misc:woe_local":2487956,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":37.764895,
+    "mps:longitude":-122.449992,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:is_test":1,
+    "mz:max_zoom":18,
+    "mz:min_zoom":16,
+    "mz:tier_locality":7,
+    "name:eng_x_preferred":[
+        "Cole Valley"
+    ],
+    "name:eng_x_variant":[
+        "Cole Vly"
+    ],
+    "src:geom":"zetashapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapzen",
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922583,
+        102087579
+    ],
+    "wof:breaches":[
+        85840617
+    ],
+    "wof:concordances":{
+        "gn:id":8449744,
+        "gp:id":55862600,
+        "qs:id":896661
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5552de7db5260f01836059f76bb67bfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":85882171,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":85882171,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1472842936,
+    "wof:name":"Cole Valley",
+    "wof:parent_id":85922583,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[],
+    "zs:blockids":[
+        60750171022001,
+        60750171023001,
+        60750171021001,
+        60750171021000,
+        60750171022002,
+        60750171021005,
+        60750171021002,
+        60750171021006
+    ],
+    "zs:housing10":741,
+    "zs:pop10":1390
+},
+  "bbox": [
+    -122.4524,
+    37.762843,
+    -122.447635,
+    37.768729
+],
+  "geometry": {"coordinates":[[[-122.450874,37.763016],[-122.45223300000001,37.762843],[-122.4524,37.763669],[-122.451042,37.763843],[-122.451213,37.764682],[-122.451403,37.765616],[-122.449958,37.7658],[-122.450146,37.766729],[-122.450335,37.767665],[-122.45052200000001,37.768593],[-122.449454,37.768729],[-122.449074,37.766872],[-122.448013,37.767007],[-122.447824,37.766072],[-122.44763500000001,37.765139],[-122.448441,37.765036],[-122.448274,37.764196],[-122.4496,37.764027],[-122.449433,37.7632],[-122.450874,37.763016]]],"type":"Polygon"}
+}

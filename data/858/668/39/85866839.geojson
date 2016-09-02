@@ -1,0 +1,146 @@
+{
+  "id": 85866839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:bbox":"-122.438418,37.759093,-122.43042,37.766014",
+    "geom:latitude":37.761997,
+    "geom:longitude":-122.433916,
+    "gn:id":"",
+    "iso:country":"US",
+    "lbl:latitude":37.759527,
+    "lbl:longitude":-122.434975,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_id":0,
+    "misc:gn_local":5391959,
+    "misc:gn_nam_loc":"San Francisco",
+    "misc:gn_namadm1":"CA",
+    "misc:local_max":60110,
+    "misc:local_sum":1593503,
+    "misc:localhoods":148,
+    "misc:name":"The Castro",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"California",
+    "misc:name_adm2":"San Francisco",
+    "misc:name_local":"San Francisco",
+    "misc:photo_max":8752,
+    "misc:photo_sum":29976,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":59,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347563,
+    "misc:woe_adm2":12587707,
+    "misc:woe_lau":0,
+    "misc:woe_local":2487956,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":37.761723,
+    "mps:longitude":-122.43304,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:is_test":1,
+    "mz:max_zoom":18,
+    "mz:min_zoom":14,
+    "mz:tier_locality":7,
+    "name:chi_x_preferred":[
+        "\u5361\u65af\u7279\u7f57"
+    ],
+    "name:eng_x_preferred":[
+        "The Castro"
+    ],
+    "name:eng_x_variant":[
+        "Castro",
+        "Castro District",
+        "The Castro District"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\uc2a4\ud2b8\ub85c"
+    ],
+    "src:geom":"zetashapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapzen",
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922583,
+        102087579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28288706,
+        "qs:id":1312376
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4d24dd3bcba481c79dae155d410298df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":85866839,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":85866839,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1472842925,
+    "wof:name":"The Castro",
+    "wof:parent_id":85922583,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[],
+    "zs:blockids":[
+        60750203003008,
+        60750205001010,
+        60750205001000,
+        60750205002002,
+        60750205002001,
+        60750169002005,
+        60750205002000,
+        60750206004001,
+        60750206004005,
+        60750203002003,
+        60750205001008,
+        60750205001011,
+        60750205001001,
+        60750206004007,
+        60750205001002,
+        60750203003005,
+        60750169002004,
+        60750203003004,
+        60750206004003,
+        60750206004006,
+        60750206004000,
+        60750169002006,
+        60750203003006,
+        60750205001003,
+        60750203003007,
+        60750206004002,
+        60750205001009,
+        60750206004004,
+        60750205001007,
+        60750203002002
+    ],
+    "zs:housing10":2002,
+    "zs:pop10":3526
+},
+  "bbox": [
+    -122.438418,
+    37.759093,
+    -122.43042,
+    37.766014
+],
+  "geometry": {"coordinates":[[[-122.430497,37.760357],[-122.43042,37.759557],[-122.432638,37.759423],[-122.433745,37.759356],[-122.434854,37.759289],[-122.435957,37.759223],[-122.437039,37.759157],[-122.438112,37.759093],[-122.438265,37.760692],[-122.438362,37.761704],[-122.438418,37.762291],[-122.437342,37.762355],[-122.436437,37.762409],[-122.436369,37.76243],[-122.435973,37.762449],[-122.435804,37.762499],[-122.435322,37.762691],[-122.435188,37.762671],[-122.435259,37.763463],[-122.435317,37.764102],[-122.435396,37.764926],[-122.433179,37.765061],[-122.433255,37.765862],[-122.431038,37.765996],[-122.430824,37.766014],[-122.43084,37.765928],[-122.43091200000001,37.765876],[-122.43102500000001,37.765868],[-122.430882,37.764374],[-122.430727,37.762753],[-122.430662,37.762081],[-122.43065,37.761954],[-122.43057399999999,37.761155],[-122.430497,37.760357]]],"type":"Polygon"}
+}
