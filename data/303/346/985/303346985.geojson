@@ -2,27 +2,29 @@
   "id": 303346985,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 West 53 Street, New York, NY 10019",
+    "addr:housenumber":"11",
+    "addr:phone":"+1 212-708-9400",
+    "addr:postcode":"10019",
+    "addr:street":"West 53 Street",
     "addr:twitter":"https://twitter.com/MuseumModernArt",
     "addr:website":"http://www.moma.org/",
     "edtf:cessation":"uuuu",
     "edtf:inception":"1929",
-    "geom:area":0.0,
-    "geom:bbox":"-73.977503,40.761252,-73.977503,40.761252",
-    "geom:latitude":40.761252,
-    "geom:longitude":-73.977503,
-    "iso:country":"",
+    "geom:area":0,
+    "geom:area_square_m":0,
+    "geom:bbox":"-73.977465,40.761224,-73.977465,40.761224",
+    "geom:latitude":40.761224,
+    "geom:longitude":-73.977465,
+    "iso:country":"US",
+    "mz:categories":[],
     "mz:hierarchy_label":1,
+    "mz:hours":[],
     "mz:is_current":1,
     "mz:is_test":1,
     "name:eng_x_preferred":[
         "MOMA"
     ],
-    "sg:address":"11 West 53 Street",
-    "sg:city":"New York",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 212-708-9400",
-    "sg:postcode":10019,
-    "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85869487,
@@ -38,9 +40,8 @@
         "4sq:id":"4af5a46af964a520b5fa21e3",
         "sg:id":"SG_5pCxWqrpadK32000hjIuTr_40.740125_-73.985707@1294177022"
     },
-    "wof:country":"",
-    "wof:created":null,
-    "wof:geomhash":"a07321e78276bd9c0fb176f2aef32878",
+    "wof:country":"US",
+    "wof:geomhash":"18b04ddadf9988e314cb606c1b9b84a4",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":303346985,
-    "wof:lastmodified":1470414504,
+    "wof:lastmodified":1473961996,
     "wof:name":"Museum of Modern Art",
     "wof:parent_id":85869487,
     "wof:placetype":"venue",
@@ -71,5 +72,5 @@
     -73.977503,
     40.761252
 ],
-  "geometry": {"coordinates":[-73.977503,40.761252],"type":"Point"}
+  "geometry": {"coordinates":[-73.977465,40.761224],"type":"Point"}
 }
